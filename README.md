@@ -17,8 +17,14 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 |Georgia  | QA           |
 |Ella     | QA           |
 
-# Coding Practises 
+# Coding Practice
+
+We will
+
 # Testing 
+
+We will
+
 # UI Design
 # Testing Strategy 
 # Accessibility Report

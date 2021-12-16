@@ -21,7 +21,7 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 
 ## Coding Practice
 
-We will
+We will create issues on
 
 ## Testing 
 
@@ -40,6 +40,8 @@ We will
 ## Testing Strategy 
 
 ## GitHub Pages & Actions 
+
+We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad JavaScript files straight from a repository on GitHub and runs the files through a build process and then to publish a website. It is easy for collaboration and clearly identifies where improvements have been made and by who.
 
 ## Issues with GitHub
 

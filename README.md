@@ -1,5 +1,4 @@
 # testing-dec2021-team1
-testing-dec2021-team1
 
 # Welcome!
 
@@ -26,6 +25,19 @@ We will
 We will
 
 # UI Design
+
+### Design 1:
+
+### Design 2:
+
+### Google Form
+
+## UI Design Results
+
 # Testing Strategy 
+
+# GitHub Pages & Actions 
+
 # Accessibility Report
+
 # Final Product

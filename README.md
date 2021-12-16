@@ -32,7 +32,7 @@ We will
 
 ### Google Form
 
-## UI Design Results
+### UI Design Results
 
 # Testing Strategy 
 

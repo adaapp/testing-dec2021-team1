@@ -1,15 +1,15 @@
 ### testing-dec2021-team1
 
-# Welcome!
+## Welcome!
 
-# Problem Statement 
+## Problem Statement 
 
 We will be creating a colour code converter. The MVP is that it will allow you to convert RGB to Hex colours and vice versa.
 <div class="column">
     <img src="https://code.adonline.id.au/wp-content/uploads/excel-rgb-to-hex-01-2.png" alt="Snow" style="width:50%; ">
 </div>
 
-# Roles
+## Roles
 
 |Name     | Job Roles    |
 |---------|--------------|
@@ -19,15 +19,15 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 |Georgia  | QA           |
 |Ella     | QA           |
 
-# Coding Practice
+## Coding Practice
 
 We will
 
-# Testing 
+## Testing 
 
 We will
 
-# UI Design
+## UI Design
 
 ### Design 1:
 
@@ -37,10 +37,10 @@ We will
 
 ### UI Design Results
 
-# Testing Strategy 
+## Testing Strategy 
 
-# GitHub Pages & Actions 
+## GitHub Pages & Actions 
 
-# Accessibility Report
+## Accessibility Report
 
-# Final Product
+## Final Product

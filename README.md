@@ -9,15 +9,13 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 
 # Roles
 
-Nicholas - Scrum Master
-
-Jon - DevOps
-
-Husna - UX
-
-Georgia - QA
-
-Ella - QA
+|Name     | Job Roles    |
+|------------------------|
+|Nicholas | Scrum Master |
+|Jon      | DevOps       |
+|Husna.   | UX           |
+|Georgia  | QA           |
+|Ella     | QA           |
 
 # Coding Practises 
 # Testing 

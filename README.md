@@ -41,6 +41,8 @@ We will
 
 ## GitHub Pages & Actions 
 
+## Issues with GitHub
+
 ## Accessibility Report
 
 ## Final Product

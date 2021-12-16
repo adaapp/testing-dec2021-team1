@@ -5,6 +5,9 @@
 # Problem Statement 
 
 We will be creating a colour code converter. The MVP is that it will allow you to convert RGB to Hex colours and vice versa.
+<div class="column">
+    <img src="https://codeutility.org/wp-content/uploads/2020/10/unnamed-1.jpg" alt="Snow" style="width:100%; ">
+</div>
 
 # Roles
 

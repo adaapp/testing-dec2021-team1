@@ -6,7 +6,7 @@
 
 We will be creating a colour code converter. The MVP is that it will allow you to convert RGB to Hex colours and vice versa.
 <div class="column">
-    <img src="https://code.adonline.id.au/wp-content/uploads/excel-rgb-to-hex-01-2.png" alt="Snow" style="width:90%; ">
+    <img src="https://code.adonline.id.au/wp-content/uploads/excel-rgb-to-hex-01-2.png" alt="Snow" style="width:60%; ">
 </div>
 
 # Roles

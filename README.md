@@ -30,7 +30,7 @@ We will be running
 
 Design
 <br>
-|Test Type    | What it is testing?    | Outcome    |
+|Test Type    | What is it testing?    | Outcome    |
 
 
 ## Testing Strategy 

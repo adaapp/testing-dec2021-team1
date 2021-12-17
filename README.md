@@ -42,6 +42,9 @@ We will be sending out a google form to our cohort to ensure the best design is 
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |                             |
 
+### Smoke Test Example
+
+### Google Forms
 
 ## Testing Strategy 
 
@@ -50,8 +53,6 @@ We will be sending out a google form to our cohort to ensure the best design is 
 ### Design 1:
 
 ### Design 2:
-
-### Google Form
 
 ### UI Design Results
 

@@ -29,7 +29,7 @@ As well, we will be creating issues on GitHub around tasks we need to complete o
 
 Code
 <br>
-We will be running smoke tests as our preliminary testing to confirm that our build is stable enough for further testing. Smoke tests will easily identify small failures, for us to fix.
+We will be running smoke tests as our preliminary testing to confirm that our build is stable enough for further testing. Smoke tests will easily identify small failures, for us to fix. During our testing phase, we will also be 'throwing an error'; to indicate whether anything unexpected will happen to disrupt the normal flow of execution. 
 
 Design
 <br>
@@ -48,7 +48,11 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 ### Smoke Test Example
 
+*link and ss*
+
 ### Google Forms
+
+*link to google form and ss*
 
 ## Testing Strategy 
 

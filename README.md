@@ -25,9 +25,12 @@ We will create issues on
 
 ## Testing 
 
-We will 
+Code
+We will be running
+
+Design
 <br>
-|Test Type    | Outcome    |
+|Test Type    | What it is testing?    | Outcome    |
 
 
 ## Testing Strategy 

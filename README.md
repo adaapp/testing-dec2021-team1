@@ -29,7 +29,7 @@ We will, also be creating issues on GitHub around tasks we need to complete or a
 
 Code
 <br>
-We will be running smoke tests as 
+We will be running smoke tests as our preliminary testing to confirm that our build is stable enough for further testing. Smoke tests will easily identify small failures, for us to fix.
 
 Design
 <br>

@@ -27,9 +27,11 @@ We will create issues on
 
 Code
 <br>
-We will be running smoke tests as
+We will be running smoke tests as 
 
 Design
+<br>
+We will be sending out a google form to our cohort to ensure the best design is chosen; the one thats simpler to navigate, easier to use and the most appropriate font and colour.
 <br>
 |Test Type    | What is it testing?    | Outcome    |
 

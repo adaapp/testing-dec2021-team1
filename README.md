@@ -26,7 +26,8 @@ We will create issues on
 ## Testing 
 
 Code
-We will be running
+<br>
+We will be running smoke tests as
 
 Design
 <br>

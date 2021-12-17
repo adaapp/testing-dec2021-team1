@@ -39,7 +39,7 @@ We will be sending out a google form to our cohort to ensure the best design is 
 |Smoke Test   |                        |                             |
 |Smoke Test   |                        |                             |
 |Smoke Test   |                        |                             |
-|Google Form  | Which design is better | *see UI Design Results below|
+|Google Form  | Which design is better | *see UI Design Results below*|
 |Google Form  | End user testing       |                             |
 
 

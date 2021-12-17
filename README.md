@@ -22,7 +22,8 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 ## Coding Practice
 We will be coding using React. We, initially, had to take some time away to research and develop our understanding. We chose to use React because
 <br>
-We will create issues on
+
+We will, also be creating issues on GitHub around tasks we need to complete or areas we need approval or help on. Some of our issues consisted of
 
 ## Testing 
 

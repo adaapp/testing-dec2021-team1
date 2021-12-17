@@ -25,11 +25,12 @@ We will create issues on
 
 ## Testing 
 
-We will
+We will 
 <br>
 |Test Type    | Outcome    |
 
 
+## Testing Strategy 
 
 ## UI Design
 
@@ -40,8 +41,6 @@ We will
 ### Google Form
 
 ### UI Design Results
-
-## Testing Strategy 
 
 ## GitHub Pages 
 

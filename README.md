@@ -13,11 +13,11 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 
 |Name     | Job Roles    |
 |---------|--------------|
-|Nicholas | Scrum Master |
-|Jon      | DevOps       |
-|Husna    | UX           |
-|Georgia  | QA           |
-|Ella     | QA           |
+|Nicholas Hadjioannou| Scrum Master |
+|Jonathan Daniel      | DevOps       |
+|Husna Dar   | UX           |
+|Georgia Bond | QA           |
+|Ella Margetts    | QA           |
 
 ## Coding Practice
 We will be coding using React. Initially, we had to take some time away to research and develop our understanding. We chose to use React because

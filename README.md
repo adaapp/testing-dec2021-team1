@@ -65,11 +65,17 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 ### UI Design
 
+To decide upon the most appropriate design we will be using A/B testing. This is a method where two versions of the webpage are taken to compare against one another and then determine which one performs better and has a more appropriate design for our converter in this case. We will do this through the google form, we created above.
+
+Below are the designs that have been collated and placed in the google form. The most popular will be the nearest to the final design; feedback will be taken to improve our webpage to be the most functional, beneficial and appropriate design. 
+
 #### Design 1:
 
 #### Design 2:
 
 ### UI Design Results
+
+From the google form , it is clear that the majority votes were with 
 
 ## GitHub Pages 
 

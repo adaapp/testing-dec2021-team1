@@ -59,9 +59,19 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 #### Google Forms
 
-*link to google form and ss*
+*link to google forms and ss*
 
 ### Testing Strategy 
+
+Our first testing consisted of smoke testing, to determine whether the initial build is stable or not. We created a test to throw out an error when a user...
+
+We decided to work on testing our individual functions before incooperating the HTML/CSS...
+
+To ensure good coding practice throughout this project we regularly tested and went through our code reviews as a team on pull requests before they were merged into the main branch.
+
+Our workflow meant that we worked well as a team; one worked on the issue relevant to their area and if they needed help, it was easy to collobrate and let the rest of the team know. Once the coding, designs or testing had been completed, it was commited to a seperate branch on GitHub to be reviewed by the team and checked for conflicts, before being added to our final project.
+
+Finally, additional testing we carried out was to ensure... (e.g. no signs allowed input)
 
 ### UI Design
 
@@ -75,16 +85,20 @@ Below are the designs that have been collated and placed in the google form. The
 
 ### UI Design Results
 
-From the google form , it is clear that the majority votes were with 
+From the google form, it is clear that the majority votes were with... 
 
 ## GitHub Pages 
 
 We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad JavaScript files straight from a repository on GitHub and runs the files through a build process and then to publish a website. It is easy for collaboration and clearly identifies where improvements have been made and by who.
 
-Netilfy?
+GitHub actions?
 
 ## Issues with GitHub
 
 ## End User Testing
 
+From our google form...
+
 ## Final Product
+
+As clear, the final webpage used the design 1/2... In future, we would...

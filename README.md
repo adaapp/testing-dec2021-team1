@@ -25,7 +25,8 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 We will be coding using React. Initially, we had to take some time away to research and develop our understanding. We chose to use React as not only is it flexible but fast and simple to use as a framework for handling the view of our web. It also allows for easy collaboration. 
 <br>
 
-As well, we will be creating issues on GitHub around tasks we need to complete or areas we need approval or help on. Some of our issues consisted of
+As well, we will be creating issues on GitHub around tasks we need to complete or areas we need approval or help on. Some of our issues consisted of:
+- 
 
 ### Testing 
 

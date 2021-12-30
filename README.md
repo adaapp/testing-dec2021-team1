@@ -1,15 +1,17 @@
 ### Testing-Assignment-dec2021-team1
 
-### Welcome!
+### meet.google.com/tzi-hzwp-pgu
 
-## Problem Statement 
+## Welcome!
+
+### Problem Statement 
 
 We will be creating a colour code converter. The MVP is that it will allow you to convert RGB to Hex colours and vice versa.
 <div class="column">
     <img src="https://code.adonline.id.au/wp-content/uploads/excel-rgb-to-hex-01-2.png" alt="Snow" style="width:50%; ">
 </div>
 
-## Roles
+### Roles
 
 |Name     | Job Roles    |
 |---------|--------------|
@@ -19,13 +21,13 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 |Georgia Bond | QA           |
 |Ella Margetts    | QA           |
 
-## Coding Practice
+### Coding Practice
 We will be coding using React. Initially, we had to take some time away to research and develop our understanding. We chose to use React because
 <br>
 
 As well, we will be creating issues on GitHub around tasks we need to complete or areas we need approval or help on. Some of our issues consisted of
 
-## Testing 
+### Testing 
 
 Code
 <br>
@@ -46,21 +48,21 @@ We will be sending out a google form to our cohort to ensure the best design is 
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |  *See End User Testing below*|
 
-### Smoke Test Example
+#### Smoke Test Example
 
 *link and ss*
 
-### Google Forms
+#### Google Forms
 
 *link to google form and ss*
 
-## Testing Strategy 
+### Testing Strategy 
 
-## UI Design
+### UI Design
 
-### Design 1:
+#### Design 1:
 
-### Design 2:
+#### Design 2:
 
 ### UI Design Results
 

@@ -25,13 +25,8 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 We will be coding using React. Initially, we had to take some time away to research and develop our understanding. We chose to use React as not only is it flexible but fast and simple to use as a framework for handling the view of our web. It also allows for easy collaboration. 
 <br>
 
-As well, we will be creating issues on GitHub around tasks we need to complete or areas we need approval or help on. Some of our issues consisted of:
-<br>
-    -
-<br>
-    -
-<br>
-    -
+As well, we will be creating issues on GitHub around tasks we need to complete or areas we need approval or help on. 
+
 ### Testing 
 
 Code
@@ -94,6 +89,14 @@ We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad 
 GitHub actions?
 
 ## Issues with GitHub
+
+Whilst working on our Assignment we had issues with GitHub as shown below GitHub reported outages with the Actions and Pages, this caused us to have an increased number of commits:
+<br>
+    -
+<br>
+    -
+<br>
+    -
 
 ## End User Testing
 

@@ -1,38 +1,114 @@
-.App {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background:darkslateblue;
+}
+
+.wrapper {
+  width:370px;
+  background:thistle;
+  padding: 30px;
+  border-radius: 7px;
+}
+
+.wrapper h1 {
+  font-size: 28px;
+  font-weight: 500;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.wrapper form {
+  margin: 40px 0 20px 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+form :where(input, select, button) {
+  width: 150px;
+  outline: none;
+  border: none;
+  text-align: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+form p {
+  font-size: 18px;
+  margin-bottom:25px;
+  text-align: center;   
+}
+
+form input {
+  height: 40px;
+  width: 310px;
+  font-size: 17px;
+  padding: 0 10px;
+  border: 4px solid black;
+}
+
+form input:focus {
+  padding: 0 14px;
+  border: 2px solid plum;
+}
+
+form .drop-list {
   display: flex;
-  flex-direction: column;
+  margin-top: 20px;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
 }
 
-.App-link {
-  color: #61dafb;
+.drop-list .select-box {
+display: flex;
+height: 45px;
+width: 115px;
+justify-content: center;
+align-items: center;
+border-radius: 3px solid black;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.select-box select {
+  width: auto;
+  font-size: 16px;
+  margin: 0 -5px 0 5px;
+  border: 3px solid black;
+}
+
+.colour-img {
+  max-width: 50;
+  border: 5px solid black;
+}
+
+.arrow-img {
+  width: 40px;
+  margin: 0 15px 0 140px;
+}
+
+.drop-list .icon {
+  cursor: pointer;
+  font-size: 2px;
+  margin-top: 30px;
+}
+
+form .Conversion {
+  font-size: 17px;
+  margin: 20px 0 30px;
+  text-align: center;
+}
+
+form button {
+  height: 52px;
+  width: 310px;
+  color:lightblue;
+  font-size: 17px;
+  cursor: pointer;
+  background:darkslateblue;
+  align-items: center;
+  border: 4px solid black;
 }

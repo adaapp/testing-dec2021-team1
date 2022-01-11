@@ -1,13 +1,10 @@
+// import { Component } from 'react/cjs/react.production.min';
 import './App.css';
-
+import Converter from './Components/Converter'
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1 className="App-Title">Hex 2 RGB</h1>
-      </header>
-    </div>
-  );
+    <Converter />
+  );  
 }
 
 export default App;

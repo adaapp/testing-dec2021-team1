@@ -115,5 +115,7 @@ Remember:
     - Write the number you input as 
 <br>
     - Use a comma every 3 numbers
+<br>
+    Example:
 
 As clear, the final webpage used the design 1. This was because it was the most... In future, we would...

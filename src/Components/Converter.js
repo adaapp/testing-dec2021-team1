@@ -2,42 +2,39 @@ import React from 'react'
 import { useState } from "react";
 import '../App.css';
 
-// function that deals with all of this. 
 export default function Converter() {
 	let [inputBox, setinputBox] = useState("");
     let [result, setResult] = useState("No colour yet!");
+
 	let [SelectorA, setSelectorA] = useState("RGB");
 	let [SelectorB, setSelectorB] = useState("HEX");
-    
+
     let [r, setR] = useState(0);
     let [g, setG] = useState(0);
     let [b, setB] = useState(0);
 
-    function convertValue(e) {
-
-        if(SelectorA === 'RGB' && SelectorB === 'HEX' && e.target.value.length) {
-            let rgb = e.target.value.split(' ').join('');
+    function converter(input) {
+        if(SelectorA === 'RGB' && SelectorB === 'HEX' && input) {
+            let rgb = input.split(' ').join('');
             rgb = rgb.split(',');
-
+            
             if(rgb.length === 3) {
-                setR(parseInt(rgb[0]));
-                setG(parseInt(rgb[1]));
-                setB(parseInt(rgb[2]));
-
-                setResult(`#${r.toString(16) + g.toString(16) + b.toString(16)}`);
+              setR(parseInt(rgb[0]));
+              setG(parseInt(rgb[1]));
+              setB(parseInt(rgb[2]));
             }
-        } if(SelectorA === 'HEX' && SelectorB === 'RGB' && e.target.value.length) {
 
+        } else if(SelectorA === 'HEX' && SelectorB === 'RGB' && input) {
+            let value = input.replace('#', '');
+            var hexText = value.match(/.{1,2}/g);
 
+            setResult(`${parseInt(hexText[0], 16)}, ${parseInt(hexText[1], 16)}, ${parseInt(hexText[2], 16)}`);
         } else {
-            setResult('No colour yet!');
-        };
+            setResult('No Colour Yet');
+        }
 
-
-        setinputBox(e.target.value);
-
-        console.log(`#${r.toString(16) + g.toString(16) + b.toString(16)}`);
-    };
+        setinputBox(input);
+    }
 
     return (
         <div className="wrapper">
@@ -45,10 +42,11 @@ export default function Converter() {
             <form id="ColourCon" action="#">
                 <div className="colour-code">
                     <p>Enter the colour code you wish to convert</p>
+                    
                     <input 
-					type="text" 
-					value={inputBox}
-					onChange={(e) => convertValue(e)}
+                       type="text"
+                       value={inputBox}
+                       onChange={(e) => converter(e.target.value)}
 					/>
                 </div>
                 <div className="drop-list">
@@ -57,7 +55,7 @@ export default function Converter() {
                         <div 
 						className="select-box">
                             <select id ="selectA" 
-							onChange={(e) => setSelectorA(e.target.value)} value ={SelectorA} >
+							onChange={(e) => setSelectorA(e.target.value)} value={SelectorA} >
                                 <option value="RGB">RGB</option>
                                 <option value="HEX">HEX</option>                        
                             </select>
@@ -74,9 +72,10 @@ export default function Converter() {
                         </div>
                     </div>
                 </div>
-                <div style={{width: '50px', height: '50px', backgroundColor: `#${r.toString(16) + g.toString(16) + b.toString(16)}`}}></div>
+                <div style={{width: '50px', height: '50px', backgroundColor: SelectorA === 'HEX' && SelectorB === 'RGB' ? 'rgb('+result+')' : `#${r.toString(16) + g.toString(16) + b.toString(16)}`}}></div>
+
                 <img src="arrows.png" className="arrow-img" alt="" />
-                <h1>{result}</h1>
+                <h1>{SelectorA === 'HEX' && SelectorB === 'RGB' ? result : `#${r.toString(16) + g.toString(16) + b.toString(16)}`}</h1>
             </form>
         </div>
     )

@@ -109,8 +109,7 @@ From our google form...
 ## Final Product
 
 <div class="column">
-    
-<img src="file:///var/folders/qc/51thmyt568l_t0qpvptql2dw0000gq/T/TemporaryItems/NSIRD_screencaptureui_BqbU1p/Screenshot%202022-01-13%20at%2015.05.23.png" style="width:50%; ">
+    <img src="https://file:///var/folders/qc/51thmyt568l_t0qpvptql2dw0000gq/T/TemporaryItems/NSIRD_screencaptureui_BqbU1p/Screenshot%202022-01-13%20at%2015.05.23.png" alt="Snow" style="width:50%; ">
 </div>
 
 https://hardcore-almeida-ba4797.netlify.app/?#

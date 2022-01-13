@@ -111,7 +111,9 @@ From our google form...
 https://hardcore-almeida-ba4797.netlify.app/?#
 
 Remember:
+<br>
     - Write the number you input as 
+<br>
     -
 
 As clear, the final webpage used the design 1. This was because it was the most... In future, we would...

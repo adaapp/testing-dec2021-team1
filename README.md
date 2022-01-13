@@ -27,6 +27,10 @@ We will be coding using React. Initially, we had to take some time away to resea
 
 As well, we will be creating issues on GitHub around tasks we need to complete or areas we need approval or help on. 
 
+#### Continuous integration/continuous delivery
+
+
+
 ### Testing 
 
 Code

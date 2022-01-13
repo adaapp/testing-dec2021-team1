@@ -1,55 +1,40 @@
 import React from 'react'
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import '../App.css';
 
 export default function Converter() {
 	let [inputBox, setinputBox] = useState("");
     let [result, setResult] = useState("No colour yet!");
-    let [colour, setColour] = useState("#000000");
 
 	let [SelectorA, setSelectorA] = useState("RGB");
 	let [SelectorB, setSelectorB] = useState("HEX");
-    
-    let [rgbValues, setRGB] = useState(['', '', '']);
 
     let [r, setR] = useState(0);
     let [g, setG] = useState(0);
     let [b, setB] = useState(0);
 
-    useEffect(() => {
-        if(SelectorA === 'RGB' && SelectorB === 'HEX' && inputBox) {
-
-            let rgb = inputBox.split(' ').join('');
+    function converter(input) {
+        if(SelectorA === 'RGB' && SelectorB === 'HEX' && input) {
+            let rgb = input.split(' ').join('');
             rgb = rgb.split(',');
             
             if(rgb.length === 3) {
               setR(parseInt(rgb[0]));
               setG(parseInt(rgb[1]));
               setB(parseInt(rgb[2]));
-            
-              console.log(b);
-            
-              setResult(`#${rgbValues[0].toString(16) + rgbValues[1].toString(16) + rgbValues[2].toString(16)}`);
-              setColour(`#${rgbValues[0]}${rgbValues[1]}${rgbValues[2]})`);
             }
 
-        } else if(SelectorA === 'HEX' && SelectorB === 'RGB' && inputBox) {
-            let value = inputBox.replace('#', '');
+        } else if(SelectorA === 'HEX' && SelectorB === 'RGB' && input) {
+            let value = input.replace('#', '');
             var hexText = value.match(/.{1,2}/g);
 
-            setRGB([parseInt(hexText[0], 16), parseInt(hexText[1], 16), parseInt(hexText[2], 16)])
-
-            setR(rgbValues[0]);
-            setG(rgbValues[1]);
-            setB(rgbValues[2]);
-
-            setResult(`${rgbValues[0]}, ${rgbValues[1]}, ${rgbValues[2]}`);
-            setColour(`rgb(${rgbValues[0]}, ${rgbValues[1]}, ${rgbValues[2]})`);
+            setResult(`${parseInt(hexText[0], 16)}, ${parseInt(hexText[1], 16)}, ${parseInt(hexText[2], 16)}`);
         } else {
             setResult('No Colour Yet');
         }
 
-    }, [inputBox]);
+        setinputBox(input);
+    }
 
     return (
         <div className="wrapper">
@@ -61,7 +46,7 @@ export default function Converter() {
                     <input 
                        type="text"
                        value={inputBox}
-                       onChange={(e) => setinputBox(e.target.value)}
+                       onChange={(e) => converter(e.target.value)}
 					/>
                 </div>
                 <div className="drop-list">

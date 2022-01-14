@@ -131,12 +131,18 @@ Whilst working on our Assignment we used GitHub Issues. We created issues on Git
 
 https://hardcore-almeida-ba4797.netlify.app/?#
 
-Remember:
+For those who are unsure of how to input their colour codes, please observe the example shown below for the RGB and Hex formats:
 <br>
-    - Write the number you input as 
-<br>
-    - Use a comma every 3 numbers
-<br>
-    Example:
 
-As clear, the final webpage used the design 1. This was because it was the most... In future, we would...
+# RGB:
+65,104,220 
+<br>
+    - Please ensure you include a comma between each value in order for the conversion to work. You must make sure that each value you enter is a number between 0 and 255. The lower the value is, the less saturated the colour will be and vice versa.
+<br>
+
+# Hex: 
+#8a2be2  
+<br>
+    - The Hex code must have a hashtag at the beginning, otherwise the code will be invalid. Each hex code must contain 6 values. No more and no less.
+
+As clear, the final webpage used the design 1, with a few tweaks after gaining our UI testing results. We decided to... Design 1 was overall, the most appropriate... In future, we would...

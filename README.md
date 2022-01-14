@@ -57,7 +57,7 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 
 #### Google Forms
-##### A/B Testing Form
+#### A/B Testing Form
 We decided to send out a google form to the rest of the cohort to get an idea of which design would be the best to use for our final app. 
 <br>
 https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/edit

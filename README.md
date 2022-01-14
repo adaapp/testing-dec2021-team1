@@ -26,7 +26,7 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 We will be coding using React. Initially, we had to take some time away to research and develop our understanding. We chose to use React as not only is it flexible but fast and simple to use as a framework for handling the view of our web. It also allows for easy collaboration. 
 <br>
 
-#### Continuous integration/continuous delivery
+### Continuous integration/continuous delivery
 
 
 
@@ -51,7 +51,7 @@ We will be sending out a google form to our cohort to ensure the best design is 
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |  *See End User Testing below*|
 
-#### Smoke Test Example
+### Smoke Test Example
 
 *link and ss*
 
@@ -91,14 +91,14 @@ https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/
 <img width="226" alt="Screenshot 2022-01-13 at 15 04 25" src="https://user-images.githubusercontent.com/91063109/149357809-7bbe4907-e27b-4987-9972-1db99cc9f51e.png">
 
 
-##### Results
+#### Results
 
 From these we gathered...
 
-##### End User Testing Form
+#### End User Testing Form
 End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made.
  
-##### Results
+#### Results
 
 From these we gathered...
 

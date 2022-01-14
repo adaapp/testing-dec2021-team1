@@ -134,14 +134,12 @@ https://hardcore-almeida-ba4797.netlify.app/?#
 For those who are unsure of how to input their colour codes, please observe the example shown below for the RGB and Hex formats:
 <br>
 
-# RGB:
-65,104,220 
+#### RGB: 65,104,220 
 <br>
     - Please ensure you include a comma between each value in order for the conversion to work. You must make sure that each value you enter is a number between 0 and 255. The lower the value is, the less saturated the colour will be and vice versa.
 <br>
 
-# Hex: 
-#8a2be2  
+#### Hex: #8a2be2  
 <br>
     - The Hex code must have a hashtag at the beginning, otherwise the code will be invalid. Each hex code must contain 6 values. No more and no less.
 

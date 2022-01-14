@@ -79,10 +79,11 @@ Below are the designs that have been collated and placed in the google form. The
 
 ### Design 1:
 
-<img width="193" alt="Screenshot 2022-01-14 at 12 02 01" src="https://user-images.githubusercontent.com/90607750/149512567-e4fc9eea-68e1-4f8d-92d0-3080a21572ac.png">
+<img width="200" alt="Screenshot 2022-01-14 at 12 02 01" src="https://user-images.githubusercontent.com/90607750/149512567-e4fc9eea-68e1-4f8d-92d0-3080a21572ac.png">
 
 ### Design 2:
 
+<img width="200" alt="Screenshot 2022-01-14 at 12 02 09" src="https://user-images.githubusercontent.com/90607750/149512620-4270dfaf-28d0-4e72-86c8-edb1231dc787.png">
 
 ## Google Forms
 ### A/B Testing Form

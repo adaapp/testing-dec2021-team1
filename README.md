@@ -22,6 +22,9 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 |Ella Margetts    | QA           |
 
 
+We worked well as a team, by regularly enduring google meets created by Nick, to ensure we knew what our current and next task was and to see if anyone needed help. This made sure we were all on track for the deadline and there was no confusion; every step was completed.
+
+
 ### Coding Practice
 We will be coding using React. Initially, we had to take some time away to research and develop our understanding. We chose to use React as not only is it flexible but fast and simple to use as a framework for handling the view of our web. It also allows for easy collaboration. 
 <br>

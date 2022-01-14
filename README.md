@@ -61,7 +61,9 @@ We will be sending out a google form to our cohort to ensure the best design is 
 We decided to send out a google form to the rest of the cohort to get an idea of which design would be the best to use for our final app. 
 <br>
 https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/edit
+
 <br>
+
 <img width="226" alt="Screenshot 2022-01-13 at 15 04 25" src="https://user-images.githubusercontent.com/91063109/149357809-7bbe4907-e27b-4987-9972-1db99cc9f51e.png">
 
 

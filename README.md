@@ -21,13 +21,10 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 |Georgia Bond | QA           |
 |Ella Margetts    | QA           |
 
-Branch test example
 
 ### Coding Practice
 We will be coding using React. Initially, we had to take some time away to research and develop our understanding. We chose to use React as not only is it flexible but fast and simple to use as a framework for handling the view of our web. It also allows for easy collaboration. 
 <br>
-
-As well, we will be creating issues on GitHub around tasks we need to complete or areas we need approval or help on. 
 
 #### Continuous integration/continuous delivery
 
@@ -61,13 +58,22 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 #### Google Forms
 ##### A/B Testing Form
-We decided to send out a google form to the rest of the cohort to get an idea of which design would be the best to use for our final app. <br>
-https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/edit<br>
+We decided to send out a google form to the rest of the cohort to get an idea of which design would be the best to use for our final app. 
+<br>
+https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/edit
+<br>
 <img width="226" alt="Screenshot 2022-01-13 at 15 04 25" src="https://user-images.githubusercontent.com/91063109/149357809-7bbe4907-e27b-4987-9972-1db99cc9f51e.png">
+
+
 ##### Results
+
+
+
 ##### End User Testing Form
- End-user testing can help us find out more information on ease of use. The benefit is feedback on layout, navigation, errors, etc.
+End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made.
+ 
 ##### Results
+
 
 ### Testing Strategy 
 
@@ -89,11 +95,11 @@ Below are the designs that have been collated and placed in the google form. The
 
 #### Design 1:
 
+
+
 #### Design 2:
 
-### UI Design Results
 
-From the google form, it is clear that the majority votes were with... 
 
 ## GitHub Pages 
 
@@ -101,15 +107,10 @@ We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad 
 
 GitHub actions?
 
-## Issues with GitHub
+## GitHub Issues
 
-Whilst working on our Assignment we had issues with GitHub as shown below GitHub reported outages with the Actions and Pages, this caused us to have an increased number of commits:
-<br>
-    -
-<br>
-    -
-<br>
-    -
+Whilst working on our Assignment we used GitHub Issues. We created issues on GitHub around tasks we need to complete or areas we need approval or help on. This was useful in....
+
 
 ## End User Testing
 

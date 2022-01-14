@@ -125,7 +125,7 @@ From these we gathered...
 
 We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad JavaScript files straight from a repository on GitHub and runs the files through a build process and then to publish a website. It is easy for collaboration and clearly identifies where improvements have been made and by who.
 
-GitHub actions?
+We have also setup Github Actions to run our integration tests and make sure that they are passing.
 
 ## GitHub Issues
 

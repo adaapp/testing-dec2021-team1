@@ -88,7 +88,7 @@ Below are the designs that have been collated and placed in the google form. The
 
 <img width="300" alt="Screenshot 2022-01-14 at 12 02 09" src="https://user-images.githubusercontent.com/90607750/149512620-4270dfaf-28d0-4e72-86c8-edb1231dc787.png">
 
-## How they were designed
+### How they were designed
 
 As UX, I...
 

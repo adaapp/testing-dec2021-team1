@@ -75,8 +75,6 @@ Finally, additional testing we carried out was to ensure... (e.g. no signs allow
 
 ## UI Design
 
-To decide upon the most appropriate design we will be using A/B testing. This is a method where two versions of the webpage are taken to compare against one another and then determine which one performs better and has a more appropriate design for our converter in this case. We will do this through the google form, we created above.
-
 Below are the designs that have been collated and placed in the google form. The most popular will be the nearest to the final design; feedback will be taken to improve our webpage to be the most functional, beneficial and appropriate design. 
 
 
@@ -94,7 +92,9 @@ As UX, I...
 
 ## Google Forms
 ### A/B Testing Form
-We decided to send out a google form to the rest of the cohort to get an idea of which design would be the best to use for our final app. 
+
+To decide upon the most appropriate design we will be using A/B testing. This is a method where two versions of the webpage are taken to compare against one another and then determine which one performs better and has a more appropriate design for our converter in this case. We will do this through the google form, we created below and sent out to the rest of our cohort.
+
 <br>
 
 https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/edit

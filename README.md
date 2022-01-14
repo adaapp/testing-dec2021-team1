@@ -79,6 +79,7 @@ To decide upon the most appropriate design we will be using A/B testing. This is
 
 Below are the designs that have been collated and placed in the google form. The most popular will be the nearest to the final design; feedback will be taken to improve our webpage to be the most functional, beneficial and appropriate design. 
 
+
 ### Design 1:
 
 <img width="300" alt="Screenshot 2022-01-14 at 12 02 01" src="https://user-images.githubusercontent.com/90607750/149512567-e4fc9eea-68e1-4f8d-92d0-3080a21572ac.png">
@@ -86,6 +87,10 @@ Below are the designs that have been collated and placed in the google form. The
 ### Design 2:
 
 <img width="300" alt="Screenshot 2022-01-14 at 12 02 09" src="https://user-images.githubusercontent.com/90607750/149512620-4270dfaf-28d0-4e72-86c8-edb1231dc787.png">
+
+## How they were designed
+
+As UX, I...
 
 ## Google Forms
 ### A/B Testing Form

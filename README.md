@@ -131,7 +131,7 @@ Whilst working on our Assignment we used GitHub Issues. We created issues on Git
 
 https://hardcore-almeida-ba4797.netlify.app/?#
 
-For those who are unsure of how to input their colour codes, please observe the example shown below for the RGB and Hex formats:
+For those who are unsure of how to input their colour codes, please observe the examples shown below for the RGB and Hex formats:
 <br>
 
 RGB: 65,104,220 
@@ -141,5 +141,5 @@ RGB: 65,104,220
 Hex: #8a2be2  
 
 - The Hex code must have a hashtag at the beginning, otherwise the code will be invalid. Each hex code must contain 6 values. No more and no less.
-
+<br>
 As clear, the final webpage used the design 1, with a few tweaks after gaining our UI testing results. We decided to... Design 1 was overall, the most appropriate... In future, we would...

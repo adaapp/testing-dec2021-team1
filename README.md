@@ -11,7 +11,7 @@ We will be creating a colour code converter. The MVP is that it will allow you t
     <img src="https://code.adonline.id.au/wp-content/uploads/excel-rgb-to-hex-01-2.png" alt="Snow" style="width:70%; ">
 </div>
 
-### Roles
+## Roles
 
 |Name     | Job Roles    |
 |---------|--------------|
@@ -33,7 +33,7 @@ We will be coding using React. Initially, we had to take some time away to resea
 
 
 
-### Testing 
+## Testing 
 
 Code
 <br>
@@ -54,11 +54,11 @@ We will be sending out a google form to our cohort to ensure the best design is 
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |  *See End User Testing below*|
 
-## Smoke Test Example
+### Smoke Test Example
 
 *link and ss*
 
-### Testing Strategy 
+## Testing Strategy 
 
 Our first testing consisted of smoke testing, to determine whether the initial build is stable or not. We created a test to throw out an error when a user...
 
@@ -70,21 +70,21 @@ Our workflow meant that we worked well as a team; one worked on the issue releva
 
 Finally, additional testing we carried out was to ensure... (e.g. no signs allowed input)
 
-### UI Design
+## UI Design
 
 To decide upon the most appropriate design we will be using A/B testing. This is a method where two versions of the webpage are taken to compare against one another and then determine which one performs better and has a more appropriate design for our converter in this case. We will do this through the google form, we created above.
 
 Below are the designs that have been collated and placed in the google form. The most popular will be the nearest to the final design; feedback will be taken to improve our webpage to be the most functional, beneficial and appropriate design. 
 
-## Design 1:
+### Design 1:
 
 
 
-## Design 2:
+### Design 2:
 
 
-### Google Forms
-## A/B Testing Form
+## Google Forms
+### A/B Testing Form
 We decided to send out a google form to the rest of the cohort to get an idea of which design would be the best to use for our final app. 
 <br>
 
@@ -95,11 +95,11 @@ https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/
 <img width="226" alt="Screenshot 2022-01-13 at 15 04 25" src="https://user-images.githubusercontent.com/91063109/149357809-7bbe4907-e27b-4987-9972-1db99cc9f51e.png">
 
 
-## Results
+### Results
 
 From these we gathered...
 
-## End User Testing Form
+### End User Testing Form
 End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made. Therefore, to know what to do in the future we sent out another google form.
 <br>
 
@@ -108,22 +108,22 @@ https://docs.google.com/forms/d/1Yp3g3DOv1_Yr09C5h8hONQHFA9kFIYfrBqtThiJhENk/edi
 <br>
 IMAGE
  
-## Results
+### Results
 
 From these we gathered...
 
-### GitHub Pages 
+## GitHub Pages 
 
 We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad JavaScript files straight from a repository on GitHub and runs the files through a build process and then to publish a website. It is easy for collaboration and clearly identifies where improvements have been made and by who.
 
 GitHub actions?
 
-### GitHub Issues
+## GitHub Issues
 
 Whilst working on our Assignment we used GitHub Issues. We created issues on GitHub around tasks we need to complete or areas we need approval or help on. This was useful in....
 
 
-### Final Product
+## Final Product
 
 <img width="769" alt="Screenshot 2022-01-14 at 11 37 14" src="https://user-images.githubusercontent.com/90607750/149509695-b8dc392f-6b5b-4e04-9df5-799f1199331e.png">
 

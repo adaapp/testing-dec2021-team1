@@ -75,7 +75,7 @@ Finally, additional testing we carried out was to ensure... (e.g. no signs allow
 
 ## UI Design
 
-Below are the designs that have been collated and placed in the google form. The most popular will be the nearest to the final design; feedback will be taken to improve our webpage to be the most functional, beneficial and appropriate design. 
+To create these designs...
 
 
 ### Design 1:
@@ -86,14 +86,13 @@ Below are the designs that have been collated and placed in the google form. The
 
 <img width="300" alt="Screenshot 2022-01-14 at 12 02 09" src="https://user-images.githubusercontent.com/90607750/149512620-4270dfaf-28d0-4e72-86c8-edb1231dc787.png">
 
-### How they were designed
-
-As UX, I...
 
 ## Google Forms
 ### A/B Testing Form
 
 To decide upon the most appropriate design we will be using A/B testing. This is a method where two versions of the webpage are taken to compare against one another and then determine which one performs better and has a more appropriate design for our converter in this case. We will do this through the google form, we created below and sent out to the rest of our cohort.
+
+The most popular will be the nearest to the final design; feedback will be taken to improve our webpage to be the most functional, beneficial and appropriate design. 
 
 <br>
 

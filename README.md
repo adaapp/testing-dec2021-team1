@@ -75,7 +75,7 @@ Finally, additional testing we carried out was to ensure... (e.g. no signs allow
 
 ## UI Design
 
-To create these designs...
+To create the following mock designs...
 
 
 ### Design 1:
@@ -90,7 +90,7 @@ To create these designs...
 ## Google Forms
 ### A/B Testing Form
 
-To decide upon the most appropriate design we will be using A/B testing. This is a method where two versions of the webpage are taken to compare against one another and then determine which one performs better and has a more appropriate design for our converter in this case. We will do this through the google form, we created below and sent out to the rest of our cohort.
+To decide upon the most appropriate design we will be using A/B testing. This is a method where two versions of the webpage are taken to compare against one another and then determine which one performs better and has a more appropriate design for our converter. We will do this through the google form we created below and sent out to the rest of our cohort.
 
 The most popular will be the nearest to the final design; feedback will be taken to improve our webpage to be the most functional, beneficial and appropriate design. 
 

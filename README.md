@@ -115,7 +115,7 @@ Whilst working on our Assignment we used GitHub Issues. We created issues on Git
 
 ## Final Product
 
-<<img width="769" alt="Screenshot 2022-01-14 at 11 37 14" src="https://user-images.githubusercontent.com/90607750/149509695-b8dc392f-6b5b-4e04-9df5-799f1199331e.png">>
+<img width="769" alt="Screenshot 2022-01-14 at 11 37 14" src="https://user-images.githubusercontent.com/90607750/149509695-b8dc392f-6b5b-4e04-9df5-799f1199331e.png">
 
 https://hardcore-almeida-ba4797.netlify.app/?#
 

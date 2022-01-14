@@ -29,7 +29,7 @@ We worked well as a team, by regularly enduring google meets created by Nick, to
 We will be coding using React. Initially, we had to take some time away to research and develop our understanding. We chose to use React as not only is it flexible but fast and simple to use as a framework for handling the view of our web. It also allows for easy collaboration. 
 <br>
 
-### Continuous integration/continuous delivery
+## Continuous integration/continuous delivery
 
 
 
@@ -54,7 +54,7 @@ We will be sending out a google form to our cohort to ensure the best design is 
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |  *See End User Testing below*|
 
-### Smoke Test Example
+## Smoke Test Example
 
 *link and ss*
 
@@ -76,15 +76,15 @@ To decide upon the most appropriate design we will be using A/B testing. This is
 
 Below are the designs that have been collated and placed in the google form. The most popular will be the nearest to the final design; feedback will be taken to improve our webpage to be the most functional, beneficial and appropriate design. 
 
-### Design 1:
+## Design 1:
 
 
 
-### Design 2:
+## Design 2:
 
 
 ### Google Forms
-### A/B Testing Form
+## A/B Testing Form
 We decided to send out a google form to the rest of the cohort to get an idea of which design would be the best to use for our final app. 
 <br>
 
@@ -95,11 +95,11 @@ https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/
 <img width="226" alt="Screenshot 2022-01-13 at 15 04 25" src="https://user-images.githubusercontent.com/91063109/149357809-7bbe4907-e27b-4987-9972-1db99cc9f51e.png">
 
 
-#### Results
+## Results
 
 From these we gathered...
 
-#### End User Testing Form
+## End User Testing Form
 End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made. Therefore, to know what to do in the future we sent out another google form.
 <br>
 
@@ -108,22 +108,22 @@ https://docs.google.com/forms/d/1Yp3g3DOv1_Yr09C5h8hONQHFA9kFIYfrBqtThiJhENk/edi
 <br>
 IMAGE
  
-#### Results
+## Results
 
 From these we gathered...
 
-## GitHub Pages 
+### GitHub Pages 
 
 We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad JavaScript files straight from a repository on GitHub and runs the files through a build process and then to publish a website. It is easy for collaboration and clearly identifies where improvements have been made and by who.
 
 GitHub actions?
 
-## GitHub Issues
+### GitHub Issues
 
 Whilst working on our Assignment we used GitHub Issues. We created issues on GitHub around tasks we need to complete or areas we need approval or help on. This was useful in....
 
 
-## Final Product
+### Final Product
 
 <img width="769" alt="Screenshot 2022-01-14 at 11 37 14" src="https://user-images.githubusercontent.com/90607750/149509695-b8dc392f-6b5b-4e04-9df5-799f1199331e.png">
 

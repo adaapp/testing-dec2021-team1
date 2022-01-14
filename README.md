@@ -55,28 +55,6 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 *link and ss*
 
-
-#### Google Forms
-#### A/B Testing Form
-We decided to send out a google form to the rest of the cohort to get an idea of which design would be the best to use for our final app. 
-<br>
-https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/edit
-
-<br>
-
-<img width="226" alt="Screenshot 2022-01-13 at 15 04 25" src="https://user-images.githubusercontent.com/91063109/149357809-7bbe4907-e27b-4987-9972-1db99cc9f51e.png">
-
-
-##### Results
-
-
-
-##### End User Testing Form
-End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made.
- 
-##### Results
-
-
 ### Testing Strategy 
 
 Our first testing consisted of smoke testing, to determine whether the initial build is stable or not. We created a test to throw out an error when a user...
@@ -102,6 +80,27 @@ Below are the designs that have been collated and placed in the google form. The
 #### Design 2:
 
 
+#### Google Forms
+#### A/B Testing Form
+We decided to send out a google form to the rest of the cohort to get an idea of which design would be the best to use for our final app. 
+<br>
+https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/edit
+
+<br>
+
+<img width="226" alt="Screenshot 2022-01-13 at 15 04 25" src="https://user-images.githubusercontent.com/91063109/149357809-7bbe4907-e27b-4987-9972-1db99cc9f51e.png">
+
+
+##### Results
+
+From these we gathered...
+
+##### End User Testing Form
+End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made.
+ 
+##### Results
+
+From these we gathered...
 
 ## GitHub Pages 
 
@@ -114,11 +113,9 @@ GitHub actions?
 Whilst working on our Assignment we used GitHub Issues. We created issues on GitHub around tasks we need to complete or areas we need approval or help on. This was useful in....
 
 
-## End User Testing
-
-From our google form...
-
 ## Final Product
+
+<img width="226" alt="Screenshot " src="https://user-images.githubusercontent.com/91063109/149357809-7bbe4907-e27b-4987-9972-1db99cc9f51e.png">
 
 https://hardcore-almeida-ba4797.netlify.app/?#
 

@@ -84,6 +84,7 @@ Below are the designs that have been collated and placed in the google form. The
 ### A/B Testing Form
 We decided to send out a google form to the rest of the cohort to get an idea of which design would be the best to use for our final app. 
 <br>
+
 https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/edit
 
 <br>
@@ -97,7 +98,11 @@ From these we gathered...
 
 #### End User Testing Form
 End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made. Therefore, to know what to do in the future we sent out another google form.
+<br>
 
+https://docs.google.com/forms/d/1Yp3g3DOv1_Yr09C5h8hONQHFA9kFIYfrBqtThiJhENk/edit
+
+<br>
 IMAGE
  
 #### Results

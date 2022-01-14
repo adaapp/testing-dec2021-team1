@@ -41,7 +41,8 @@ We will be running smoke tests as our preliminary testing to confirm that our bu
 
 Design
 <br>
-We will be sending out a google form to our cohort to ensure the best design is chosen; the one thats simpler to navigate, easier to use and the most appropriate font and colour.
+We will be sending out a google form to our cohort to ensure the best design is chosen; the one thats simpler to navigate, easier to use and the most appropriate font and colour. We will also run an accessibility and performance audit on our HTML, to ensure that is running smoothly.
+
 <br>
 
 

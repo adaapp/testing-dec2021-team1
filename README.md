@@ -76,9 +76,11 @@ Our first testing consisted of smoke testing, to determine whether the initial b
 
 We decided to work on testing our individual functions before incooperating the HTML/CSS, to make sure our functions worked.
 
-First we created a describe block that converted hex to rgb.
+First we created a describe block that converted hex to rgb. Inside each box, we created multiple assertions to test the input, output and sometimes errors being thrown. In this instance, we tested that...
 
-* We created a test to throw out an error when a user... *
+Similarly, another describe block we tested was the rgb function; to ensure rgb converted to hex. An example of an assertion within this was...
+
+To ensure certain symbols or negative numbers etc couldn't be inputted, we created a test to throw out an error when a user...
 
 To ensure good coding practice throughout this project we regularly tested and went through our code reviews as a team on pull requests before they were merged into the main branch.
 

@@ -41,6 +41,10 @@ Code
 <br>
 We will be running smoke tests as our preliminary testing to confirm that our build is stable enough for further testing. Smoke tests will easily identify small failures, for us to fix. During our testing phase, we will also be 'throwing an error'; to indicate whether anything unexpected will happen to disrupt the normal flow of execution. 
 
+
+A coding standard will improve the readability and maintenance of the code, as well as help us detect errors easily. We will achieve this by having standard variable and class names.
+<br>
+
 Design
 <br>
 We will be sending out a google form to our cohort to ensure the best design is chosen; the one thats simpler to navigate, easier to use and the most appropriate font and colour. We will also run an accessibility and performance audit on our HTML, to ensure that is running smoothly.
@@ -48,12 +52,20 @@ We will be sending out a google form to our cohort to ensure the best design is 
 <br>
 
 
-|Test Type    | What is it testing?    | Outcome                     |
+|Test    | What is it testing?    | Example Outcome                     |
 |-------------|------------------------|-----------------------------|
 |Smoke Test   |                        |                             |
 |Smoke Test   |                        |                             |
 |Smoke Test   |                        |                             |
-|Throw an Error|                             |                             |
+|Smoke Test   | That our following tests will work     |True|
+|Smoke Test   | 'Testing our colour converter'|'Testing our colour converter'|
+|Hexconverter function  |  rgb to hex         | #8a3be2 to 138, 59, 226|
+|rgbconverter function  |  hex to rgb         |                             |
+|Datatype number for rgb|                        |                             |
+|Datatype string for hex|                        |                             |
+|Throw an Error|                        |                             |
+|Throw an Error|                        |                             |
+|Throw an Error|                        |                             |
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |  *See End User Testing below*|
 
@@ -63,19 +75,24 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 ## Testing Strategy 
 
-Our first testing consisted of smoke testing, to determine whether the initial build is stable or not. We created a test to throw out an error when a user...
+Our first testing consisted of smoke testing, to determine whether the initial build is stable or not, to further testing. We wrote a few of these to make sure; using toBe, toEqual and toBeTruthy. 
 
-We decided to work on testing our individual functions before incooperating the HTML/CSS...
+We decided to work on testing our individual functions before incooperating the HTML/CSS, to make sure our functions worked.
+
+First we created a describe block that converted hex to rgb. Inside each box, we created multiple assertions to test the input, output and sometimes errors being thrown. In this instance, we tested that...
+
+Similarly, another describe block we tested was the rgb function; to ensure rgb converted to hex. An example of an assertion within this was...
+
+To ensure certain symbols or negative numbers etc couldn't be inputted, we created a test to throw out an error when a user...
 
 To ensure good coding practice throughout this project we regularly tested and went through our code reviews as a team on pull requests before they were merged into the main branch.
 
 Our workflow meant that we worked well as a team; one worked on the issue relevant to their area and if they needed help, it was easy to collobrate and let the rest of the team know. Once the coding, designs or testing had been completed, it was commited to a seperate branch on GitHub to be reviewed by the team and checked for conflicts, before being added to our final project.
 
-Finally, additional testing we carried out was to ensure... (e.g. no signs allowed input)
 
 ## UI Design
 
-To create the following mock designs...
+To create the following mock designs for this app, both HTML and CSS was used on VSCode. Prior to making the final design, numerous tutorials had been watched by Husna, on how to create a simple converter app, as HTML and CSS had not been used by our team, to design an app before.  The overall process was quite easy as VSCode had a lot of inbuilt features which made it easy to call on certain functions or even to use certain colours. Adjusting the designs for the final product was therefore made more simple.
 
 
 ### Design 1:
@@ -86,7 +103,6 @@ To create the following mock designs...
 ### Design 2:
 
 <img width="300" alt="Screenshot 2022-01-14 at 12 02 09" src="https://user-images.githubusercontent.com/90607750/149512620-4270dfaf-28d0-4e72-86c8-edb1231dc787.png">
-
 
 
 ## Google Forms

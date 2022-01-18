@@ -87,7 +87,7 @@ Our workflow meant that we worked well as a team; one worked on the issue releva
 
 ## UI Design
 
-To create the following mock designs...
+To create the following mock designs for this app, both HTML and CSS was used on VSCode. Prior to making the final design, numerous tutorials had been watched by Husna, on how to create a simple converter app, as HTML and CSS had not been used by our team, to design an app before.  The overall process was quite easy as VSCode had a lot of inbuilt features which made it easy to call on certain functions or even to use certain colours. Adjusting the designs for the final product was therefore made more simple.
 
 
 ### Design 1:

@@ -27,18 +27,18 @@ export default function Converter() {
     };
 
     function hexconverter(input){
-
+        let value = input.replace('#', '');
+        var hexText = value.match(/.{1,2}/g);
+        var hexCoversion = `${parseInt(hexText[0], 16)}, ${parseInt(hexText[1], 16)}, ${parseInt(hexText[2], 16)}`;
+        setResult(hexCoversion);
+        return hexCoversion;
     }
 
     function converter(input) {         // The function that converts the input box values 
         if(SelectorA === 'RGB' && SelectorB === 'HEX' && input) {       // If statement checks if the RGB2HEX conversion is selected
             rgbconverter(input)
         } else if(SelectorA === 'HEX' && SelectorB === 'RGB' && input) {  // Hex converter function
-            let value = input.replace('#', '');
-            var hexText = value.match(/.{1,2}/g);
-            var hexCoversion = `${parseInt(hexText[0], 16)}, ${parseInt(hexText[1], 16)}, ${parseInt(hexText[2], 16)}`;
-            setResult(hexCoversion);
-            return hexCoversion
+            hexconverter(input)
         } else {
             setResult('No Colour Yet');
         }

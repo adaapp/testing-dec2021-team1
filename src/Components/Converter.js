@@ -13,18 +13,22 @@ export default function Converter() {
     let [g, setG] = useState(0);
     let [b, setB] = useState(0);
 
+    function rgbconverter(input){
+        let rgb = input.split(' ').join(''); 
+        rgb = rgb.split(',');       // Splits the RGB into three different numbers
+        
+        if(rgb.length === 3) {      
+          setR(parseInt(rgb[0]));
+          setG(parseInt(rgb[1]));
+          setB(parseInt(rgb[2]));
+          return rgb;
+        }
+
+    };
 
     function converter(input) {         // The function that converts the input box values 
         if(SelectorA === 'RGB' && SelectorB === 'HEX' && input) {       // If statement checks if the RGB2HEX conversion is selected
-            let rgb = input.split(' ').join(''); 
-            rgb = rgb.split(',');       // Splits the RGB into three different numbers
-            
-            if(rgb.length === 3) {      
-              setR(parseInt(rgb[0]));
-              setG(parseInt(rgb[1]));
-              setB(parseInt(rgb[2]));
-            }
-
+            rgbconverter(input)
         } else if(SelectorA === 'HEX' && SelectorB === 'RGB' && input) {  // Hex converter function
             let value = input.replace('#', '');
             var hexText = value.match(/.{1,2}/g);

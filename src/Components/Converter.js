@@ -26,12 +26,12 @@ export default function Converter() {
 
     };
 
-    function hexconverter(input){
+    function hexconverter(input){ // Hex converter function
         let value = input.replace('#', '');
         var hexText = value.match(/.{1,2}/g);
         var hexCoversion = `${parseInt(hexText[0], 16)}, ${parseInt(hexText[1], 16)}, ${parseInt(hexText[2], 16)}`;
         setResult(hexCoversion);
-        return hexCoversion;
+        return hexCoversion; // Returns final conversion
     }
 
     function converter(input) {         // The function that converts the input box values 

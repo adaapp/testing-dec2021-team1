@@ -50,9 +50,14 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 |Test    | What is it testing?    | Outcome                     |
 |-------------|------------------------|-----------------------------|
-|Smoke Test   | Following tests will work|True                             |
-|Hexconverter function  |  rgb to hex                      |                             |
-|rgbconverter function  |  hex to rgb                      |                             |
+|Smoke Test   | Following tests will work     |True|
+|Smoke Test   | 'Testing our colour converter'|'Testing our colour converter'|
+|Hexconverter function  |  rgb to hex         | #8a3be2 to 138, 59, 226|
+|rgbconverter function  |  hex to rgb         |                             |
+|Datatype number for rgb|                        |                             |
+|Datatype string for hex|                        |                             |
+|Throw an Error|                        |                             |
+|Throw an Error|                        |                             |
 |Throw an Error|                        |                             |
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |  *See End User Testing below*|

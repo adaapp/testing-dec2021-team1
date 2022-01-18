@@ -41,8 +41,9 @@ Code
 <br>
 We will be running smoke tests as our preliminary testing to confirm that our build is stable enough for further testing. Smoke tests will easily identify small failures, for us to fix. During our testing phase, we will also be 'throwing an error'; to indicate whether anything unexpected will happen to disrupt the normal flow of execution. 
 
-<br>
+
 A coding standard will improve the readability and maintenance of the code, as well as help us detect errors easily. We will achieve this by having standard variable and class names.
+<br>
 
 Design
 <br>

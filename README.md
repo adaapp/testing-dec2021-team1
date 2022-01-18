@@ -50,7 +50,7 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 |Test Type    | What is it testing?    | Outcome                     |
 |-------------|------------------------|-----------------------------|
-|Smoke Test   |                        |                             |
+|Smoke Test   | Following tests will work                       |                             |
 |Smoke Test   |                        |                             |
 |Smoke Test   |                        |                             |
 |Throw an Error|                        |                             |

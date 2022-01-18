@@ -48,11 +48,11 @@ We will be sending out a google form to our cohort to ensure the best design is 
 <br>
 
 
-|Test Type    | What is it testing?    | Outcome                     |
+|Test    | What is it testing?    | Outcome                     |
 |-------------|------------------------|-----------------------------|
-|Smoke Test   | Following tests will work                       |                             |
-|Smoke Test   |                        |                             |
-|Smoke Test   |                        |                             |
+|Smoke Test   | Following tests will work|True                             |
+|Hexconverter function  |  rgb to hex                      |                             |
+|rgbconverter function  |  hex to rgb                      |                             |
 |Throw an Error|                        |                             |
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |  *See End User Testing below*|

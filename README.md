@@ -91,9 +91,11 @@ Below are the designs that have been collated and placed in the google form. The
 
 #### Design 2:
 
-### UI Design Results
+### UI Design Results <br>
+<img width="558" alt="Screenshot 2022-01-18 at 10 04 49" src="https://user-images.githubusercontent.com/91063109/149915771-6766f7a1-c248-44a8-820f-133c943ddb94.png">
 
-From the google form, it is clear that the majority votes were with... 
+
+From the google form, it is clear that the majority votes were for Design 1. The main feedback was that the colours matched better which made it more appealing as well as the Dark colours made it eye catching. UI Designer Husna went ahead and did the Html and Css for this design based on the feedback from her mockups.
 
 ## GitHub Pages 
 

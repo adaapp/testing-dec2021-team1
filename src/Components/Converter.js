@@ -20,6 +20,9 @@ export default function Converter() {
     let setG = useState(0);
     let setB = useState(0);
 
+    let r = setR; 
+    let g = setG;
+    let b = setB;
 
     let Anwser;
     
@@ -27,10 +30,9 @@ export default function Converter() {
 
     function converter(input) {         // The function that converts the input box values 
         if(SelectorA === 'RGB' && SelectorB === 'HEX' && input) {       // If statement checks if the RGB2HEX conversion is selected
+
             Anwser = rgbconverter(input)
-            let r = setR; 
-            let g = setG;
-            let b = setB;
+            console.log(r+g+b)
         
             setResult(Anwser)
         } else if(SelectorA === 'HEX' && SelectorB === 'RGB' && input) {  // Hex converter function

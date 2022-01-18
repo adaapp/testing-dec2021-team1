@@ -1,6 +1,12 @@
 import React from 'react'
 import { useState } from "react";
 import '../App.css';
+import '../conversionFunctions';
+const {
+    hexconverter,
+    rgbconverter
+  } = require("../conversionFunctions");
+
 
 export default function Converter() {
 	let [inputBox, setinputBox] = useState(""); //The variable that stores the what a user has inputed in
@@ -9,36 +15,27 @@ export default function Converter() {
 	let [SelectorA, setSelectorA] = useState("RGB"); // The first drop down box, Selector A is the variable you would look at
 	let [SelectorB, setSelectorB] = useState("HEX"); // The first drop down box, Selector B is the variable you would look at
 
-    let [r, setR] = useState(0); 
-    let [g, setG] = useState(0);
-    let [b, setB] = useState(0);
+    
+    let setR = useState(0);
+    let setG = useState(0);
+    let setB = useState(0);
 
-    function rgbconverter(input){
-        let rgb = input.split(' ').join(''); 
-        rgb = rgb.split(',');       // Splits the RGB into three different numbers
-        
-        if(rgb.length === 3) {      
-          setR(parseInt(rgb[0]));
-          setG(parseInt(rgb[1]));
-          setB(parseInt(rgb[2]));
-          return rgb;
-        }
 
-    };
+    let Anwser;
+    
 
-    function hexconverter(input){ // Hex converter function
-        let value = input.replace('#', '');
-        var hexText = value.match(/.{1,2}/g);
-        var hexCoversion = `${parseInt(hexText[0], 16)}, ${parseInt(hexText[1], 16)}, ${parseInt(hexText[2], 16)}`;
-        setResult(hexCoversion);
-        return hexCoversion; // Returns final conversion
-    }
 
     function converter(input) {         // The function that converts the input box values 
         if(SelectorA === 'RGB' && SelectorB === 'HEX' && input) {       // If statement checks if the RGB2HEX conversion is selected
-            rgbconverter(input)
+            Anwser = rgbconverter(input)
+            let r = setR; 
+            let g = setG;
+            let b = setB;
+        
+            setResult(Anwser)
         } else if(SelectorA === 'HEX' && SelectorB === 'RGB' && input) {  // Hex converter function
-            hexconverter(input)
+            Anwser = hexconverter(input)
+            setResult(Anwser)
         } else {
             setResult('No Colour Yet');
         }
@@ -82,10 +79,10 @@ export default function Converter() {
                         </div>
                     </div>
                 </div>
-                <div style={{width: '50px', height: '50px', backgroundColor: SelectorA === 'HEX' && SelectorB === 'RGB' ? 'rgb('+result+')' : `#${r.toString(16) + g.toString(16) + b.toString(16)}`}}></div>
+                <div style={{width: '50px', height: '50px', backgroundColor: result}}></div>
 
                 <img src="arrows.png" className="arrow-img" alt="" />
-                <h1>{SelectorA === 'HEX' && SelectorB === 'RGB' ? result : `#${r.toString(16) + g.toString(16) + b.toString(16)}`}</h1>
+                <h1>{result}</h1>
             </form>
         </div>
     )

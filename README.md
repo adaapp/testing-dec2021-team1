@@ -113,8 +113,6 @@ https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/
 From the google form, it is clear that the majority votes were for Design 1. The main feedback was that the colours matched better which made it more appealing as well as the Dark colours made it eye catching. UI Designer Husna went ahead and did the Html and Css for this design based on the feedback from her mockups.
 
 
-From these we gathered...
-
 ### End User Testing Form
 End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made. Therefore, to know what to do in the future we sent out another google form.
 <br>

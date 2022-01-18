@@ -54,8 +54,8 @@ export default function Converter() {
                     
                     <input 
                        type="text"
-                       value={inputBox}
-                       onChange={(e) => converter(e.target.value)}
+                       value={SelectorA === 'HEX' && SelectorB === 'RGB' ? "#" + inputBox.replace('#','') : inputBox}
+                       onChange={(e) => converter(e.target.value.replace('#',''))}
 					/>
                 </div>
                 <div className="drop-list">

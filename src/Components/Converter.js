@@ -21,6 +21,7 @@ export default function Converter() {
           setR(parseInt(rgb[0]));
           setG(parseInt(rgb[1]));
           setB(parseInt(rgb[2]));
+          return rgb;
         }
 
     };

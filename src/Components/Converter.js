@@ -26,9 +26,9 @@ export default function Converter() {
 
     };
 
-    function hexconverter(input){
-
-    }
+    //function hexconverter(input){
+// This function is not used
+    //}
 
     function converter(input) {         // The function that converts the input box values 
         if(SelectorA === 'RGB' && SelectorB === 'HEX' && input) {       // If statement checks if the RGB2HEX conversion is selected

@@ -53,10 +53,7 @@ We will be sending out a google form to our cohort to ensure the best design is 
 |Smoke Test   |                        |                             |
 |Smoke Test   |                        |                             |
 |Smoke Test   |                        |                             |
-|Throw an Error|This tests to see if an error is being thrown by the function|The rgbconverter() throws the error "input.split is not a function"|
-|.toBeUndefined|This test checks that a variable is undefined |The rgbconverter() is undefined if given a string|
-|.toBeInstanceOf|This test checks that an object is an instance of a class||
-|.not|This lets you test its opposite||
+|Throw an Error|                             |                             |
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |  *See End User Testing below*|
 

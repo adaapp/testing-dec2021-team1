@@ -48,7 +48,7 @@ We will be sending out a google form to our cohort to ensure the best design is 
 <br>
 
 
-|Test    | What is it testing?    | Outcome                     |
+|Test    | What is it testing?    | Example Outcome                     |
 |-------------|------------------------|-----------------------------|
 |Smoke Test   | That our following tests will work     |True|
 |Smoke Test   | 'Testing our colour converter'|'Testing our colour converter'|

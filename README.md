@@ -142,6 +142,7 @@ https://docs.google.com/forms/d/1Yp3g3DOv1_Yr09C5h8hONQHFA9kFIYfrBqtThiJhENk/edi
 ### Results
 
 From these we gathered...
+This type of testing can help us improve our app and develop it. The users we sent this form out to are likely to be users of the app for coding projects. They would have also had an idea of what to expect from the app so navigation is easy. Next time we send out a user testing form, we could send it to another user group that may not have seen this time of app before.
 
 ## GitHub Pages 
 

@@ -38,7 +38,7 @@ export default function Converter() {
         } else if(SelectorA === 'HEX' && SelectorB === 'RGB' && input) {  // Hex converter function
             Anwser = hexconverter(input)
             setResult(Anwser)
-        } else {
+        } else  {
             setResult('No Colour Yet');
         }
 

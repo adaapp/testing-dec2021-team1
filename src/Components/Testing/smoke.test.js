@@ -1,12 +1,3 @@
-test("Check that the tests are working", () => {
-    expect(2+2).toBe(4);
-    
-    expect(false).toBeFalsy();
-}); 
-
-
-
-
 
 // conv stuff
 
@@ -15,12 +6,12 @@ test("Check that the tests are working", () => {
 // } = require("./functions/hexconv");
     
     
-    //Smoke Test
-    // describe('Test a smoke test ', () => {
-    // test ('A smoke test will run', () => {
-    //     expect('Smoke test').toEqual('Smoke test');
-    //     expect('Testing UI').not.toBe('Testing HTML');
-    // });
+    // Smoke Test
+    describe('Test a smoke test ', () => {
+    test ('A smoke test will run', () => {
+        expect('Smoke test').toEqual('Smoke test');
+    })
+    });
     
     // test ('A smoke test to test that the following converter tests will work', () => {
     //     expect(true).toBeTruthy();

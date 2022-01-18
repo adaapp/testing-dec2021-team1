@@ -87,12 +87,6 @@ To create the following mock designs...
 
 <img width="300" alt="Screenshot 2022-01-14 at 12 02 09" src="https://user-images.githubusercontent.com/90607750/149512620-4270dfaf-28d0-4e72-86c8-edb1231dc787.png">
 
-### UI Design Results <br>
-<img width="558" alt="Screenshot 2022-01-18 at 10 04 49" src="https://user-images.githubusercontent.com/91063109/149915771-6766f7a1-c248-44a8-820f-133c943ddb94.png">
-
-
-From the google form, it is clear that the majority votes were for Design 1. The main feedback was that the colours matched better which made it more appealing as well as the Dark colours made it eye catching. UI Designer Husna went ahead and did the Html and Css for this design based on the feedback from her mockups.
-
 
 
 ## Google Forms
@@ -112,6 +106,12 @@ https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/
 
 
 ### Results
+<br>
+<img width="558" alt="Screenshot 2022-01-18 at 10 04 49" src="https://user-images.githubusercontent.com/91063109/149915771-6766f7a1-c248-44a8-820f-133c943ddb94.png">
+
+
+From the google form, it is clear that the majority votes were for Design 1. The main feedback was that the colours matched better which made it more appealing as well as the Dark colours made it eye catching. UI Designer Husna went ahead and did the Html and Css for this design based on the feedback from her mockups.
+
 
 From these we gathered...
 

@@ -92,7 +92,7 @@ To create the following mock designs...
 ## Google Forms
 ### A/B Testing Form
 
-To decide upon the most appropriate design we will be using A/B testing. This is a method where two versions of the webpage are taken to compare against one another and then determine which one performs better and has a more appropriate design for our converter. We will do this through the google form we created below and sent out to the rest of our cohort.
+To decide upon the most appropriate design we will be using A/B testing. This is a method where two versions of the webpage are taken to compare against one another and then determine which one performs better and has a more appropriate design for our converter. We will do this through the google form we created below and sent out to the rest of our cohort as it would be a website they might use for a coding project so we thought it would be the right audience to target.
 
 The most popular will be the nearest to the final design; feedback will be taken to improve our webpage to be the most functional, beneficial and appropriate design. 
 
@@ -114,13 +114,17 @@ From the google form, it is clear that the majority votes were for Design 1. The
 
 
 ### End User Testing Form
-End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made. Therefore, to know what to do in the future we sent out another google form.
+End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made. Therefore, to know what to do in the future we sent out another google form based off any issues rasied from the first end user testing form after improvements have been made.We will do this through the google form we created below and sent out to the rest of our cohort as it would be a website they might use for a coding project so we thought it would be the right audience to target.
+
 <br>
 
 https://docs.google.com/forms/d/1Yp3g3DOv1_Yr09C5h8hONQHFA9kFIYfrBqtThiJhENk/edit
 
 <br>
-IMAGE
+<img width="558" alt="Screenshot 2022-01-18 at 10 37 39" src="https://user-images.githubusercontent.com/91063109/149921558-719a36fa-9e13-4db5-9771-2ac6e9147cf2.png"><br><img width="558" alt="Screenshot 2022-01-18 at 10 38 09" src="https://user-images.githubusercontent.com/91063109/149921569-b57da7cd-a8e1-4857-b437-2f9facb0ccac.png">
+
+
+
  
 ### Results
 
@@ -154,4 +158,4 @@ Hex: #8a2be2
 
 - The Hex code must have a hashtag at the beginning, otherwise the code will be invalid. Each hex code must contain 6 values. No more and no less.
 <br>
-As clear, the final webpage used the design 1, with a few tweaks after gaining our UI testing results. We decided to... Design 1 was overall, the most appropriate... In future, we would...
+As clear, the final webpage used the design 1, with a few tweaks after gaining our UI testing results. We decided to that Design 1 was the most appropriate colour scheme. The contrast between the dark and light colours made it eye-catching. In future, we would like to develop the design so that a bigger part of the app changed colour based off the user input. for example the border colour could change.

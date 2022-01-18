@@ -82,9 +82,11 @@ To create the following mock designs...
 
 <img width="300" alt="Screenshot 2022-01-14 at 12 02 01" src="https://user-images.githubusercontent.com/90607750/149512567-e4fc9eea-68e1-4f8d-92d0-3080a21572ac.png">
 
+
 ### Design 2:
 
 <img width="300" alt="Screenshot 2022-01-14 at 12 02 09" src="https://user-images.githubusercontent.com/90607750/149512620-4270dfaf-28d0-4e72-86c8-edb1231dc787.png">
+
 
 
 ## Google Forms
@@ -104,8 +106,12 @@ https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/
 
 
 ### Results
+<br>
+<img width="558" alt="Screenshot 2022-01-18 at 10 04 49" src="https://user-images.githubusercontent.com/91063109/149915771-6766f7a1-c248-44a8-820f-133c943ddb94.png">
 
-From these we gathered...
+
+From the google form, it is clear that the majority votes were for Design 1. The main feedback was that the colours matched better which made it more appealing as well as the Dark colours made it eye catching. UI Designer Husna went ahead and did the Html and Css for this design based on the feedback from her mockups.
+
 
 ### End User Testing Form
 End-user testing can help us find out more information on the ease of use. The benefit is feedback on layout, navigation, errors, etc, to see where improvement can be made. Therefore, to know what to do in the future we sent out another google form.

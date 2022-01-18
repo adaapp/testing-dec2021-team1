@@ -15,18 +15,11 @@ export default function Converter() {
 	let [SelectorA, setSelectorA] = useState("RGB"); // The first drop down box, Selector A is the variable you would look at
 	let [SelectorB, setSelectorB] = useState("HEX"); // The first drop down box, Selector B is the variable you would look at
 
-    // let [r, setR] = useState(0); 
-    // let [g, setG] = useState(0);
-    // let [b, setB] = useState(0);
     
     let setR = useState(0);
     let setG = useState(0);
     let setB = useState(0);
 
-
-    let r = setR; 
-    let g = setG;
-    let b = setB;
 
     let Anwser;
     
@@ -35,6 +28,10 @@ export default function Converter() {
     function converter(input) {         // The function that converts the input box values 
         if(SelectorA === 'RGB' && SelectorB === 'HEX' && input) {       // If statement checks if the RGB2HEX conversion is selected
             Anwser = rgbconverter(input)
+            let r = setR; 
+            let g = setG;
+            let b = setB;
+        
             setResult(Anwser)
         } else if(SelectorA === 'HEX' && SelectorB === 'RGB' && input) {  // Hex converter function
             Anwser = hexconverter(input)

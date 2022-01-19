@@ -31,13 +31,13 @@ We worked well as a team, by regularly enduring google meets created by Nick, to
 We will be coding using React. Initially, we had to take some time away to research and develop our understanding. We chose to use React as not only is it flexible but fast and simple to use as a framework for handling the view of our web. It also allows for easy collaboration. 
 <br>
 
-https://github.com/adaapp/testing-dec2021-team1.git
-
 ### Continuous integration/continuous delivery
 
 I....
 
 ## Testing 
+
+https://github.com/adaapp/testing-dec2021-team1.git
 
 Code
 <br>

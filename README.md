@@ -27,6 +27,7 @@ We will be creating a colour code converter. The MVP is that it will allow you t
 We worked well as a team, by regularly enduring google meets created by Nick, to ensure we knew what our current and next task was and to see if anyone needed help. This made sure we were all on track for the deadline and there was no confusion; every step was completed.
 
 
+
 ## Coding Practice
 We will be coding using React. Initially, we had to take some time away to research and develop our understanding. We chose to use React as not only is it flexible but fast and simple to use as a framework for handling the view of our web. It also allows for easy collaboration. 
 <br>
@@ -118,6 +119,7 @@ Our workflow meant that we worked well as a team; one worked on the issue releva
 |When entering a RGB value a HEX value is produced with a hashtag(input -12,34,56)|The same as expected outcome|<img width="335" alt="Screenshot 2022-01-19 at 11 41 13" src="https://user-images.githubusercontent.com/91063109/150123156-99f19593-5170-44de-a980-67947938ee27.png">|
 |Before an input is given it displayes " No Colour Yet" and when an input is given a square appears and the HEX code (in this test we did a RGB to HEX conversion )|The same as expected|<img width="335" alt="Screenshot 2022-01-19 at 11 43 03" src="https://user-images.githubusercontent.com/91063109/150123405-d4416df3-7bd4-4543-92aa-4d315c290347.png"><br><img width="335" alt="Screenshot 2022-01-19 at 11 42 49" src="https://user-images.githubusercontent.com/91063109/150123360-139f12a8-9a5e-4296-90cc-f795668f9dd4.png">|
 |When the converter is change, e.g. RGB to HEX is changed to HEX to RGB, it should go back to saying "No Colour Yet" without a coloured square| The outcome was that the coloured square stays there until a new input is given|<img width="335" alt="Screenshot 2022-01-19 at 11 48 55" src="https://user-images.githubusercontent.com/91063109/150124440-da4e3c75-c48a-4d58-b13a-ac44ea771678.png"><br><img width="335" alt="Screenshot 2022-01-19 at 11 49 34" src="https://user-images.githubusercontent.com/91063109/150124472-baa74970-3e38-46ce-b686-6f6fad107aa2.png">|
+|The square should be central| The square is on the side so we decided to move it as it looks better|<img width="335" alt="Screenshot 2022-01-19 at 12 17 32" src="https://user-images.githubusercontent.com/91063109/150128272-8a2acfea-7abc-498d-bd26-fc6e39f3eb2b.png"><br><img width="335" alt="Screenshot 2022-01-19 at 11 49 34" src="https://user-images.githubusercontent.com/91063109/150128229-cb7f0e32-c7c9-486b-9fd8-300f436afb91.png">|
 
 
 ## UI Design

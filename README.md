@@ -33,7 +33,7 @@ We will be coding using React. Initially, we had to take some time away to resea
 <br>
 
 ### Continuous integration/continuous delivery
-We will be following this method of deployment for code in our project
+We will be following this method of deployment for code in our project:
 <br>
 1.Write the code
 <br>

@@ -189,6 +189,11 @@ Whilst working on our Assignment we used GitHub Issues. We created issues on Git
 <div class="column">
     <img src="https://user-images.githubusercontent.com/54667722/150172132-53a2cfc6-da68-4452-a384-2230fe6b2d86.png" alt="Snow" style="width:100%; ">
 </div>
+<div class="column">
+    <img src="https://user-images.githubusercontent.com/54667722/150173952-6ea24bfc-3eae-4cbd-8290-73d150260804.png" alt="Snow" style="width:100%; ">
+</div>
+
+https://user-images.githubusercontent.com/54667722/150173952-6ea24bfc-3eae-4cbd-8290-73d150260804.png
 
 We have also setup Github Actions to run our integration tests and make sure that they are passing.
 

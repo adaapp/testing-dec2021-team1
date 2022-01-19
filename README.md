@@ -190,7 +190,7 @@ Whilst working on our Assignment we used GitHub Issues. We created issues on Git
 
 ## Final Product
 
-<img width="735" alt="Screenshot 2022-01-14 at 11 58 44" src="https://user-images.githubusercontent.com/90607750/149512175-9f16b16e-90a3-4955-b2b5-f5282cd42ed7.png">
+<img width="710" alt="Screenshot 2022-01-19 at 12 16 47" src="https://user-images.githubusercontent.com/90607750/150127764-5babfe1d-3319-4a56-aafc-4ff1f74241c7.png">
 
 https://hardcore-almeida-ba4797.netlify.app/?#
 

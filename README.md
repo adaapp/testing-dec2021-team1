@@ -156,7 +156,7 @@ https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/
 <img width="558" alt="Screenshot 2022-01-18 at 10 04 49" src="https://user-images.githubusercontent.com/91063109/149915771-6766f7a1-c248-44a8-820f-133c943ddb94.png">
 
 
-From the google form, it is clear that the majority votes were for Design 1. The main feedback was that the colours matched better which made it more appealing as well as the Dark colours made it eye catching. UI Designer Husna went ahead and did the Html and Css for this design based on the feedback from her mockups.
+From the google form, it is clear that the majority votes were for Design 1. The main feedback was that the colours matched better, which made it more appealing as well as the darker colours made it eye catching. UI Designer, Husna, went ahead and did the HTML and CSS for this design based on the feedback from her mockups.
 
 
 ### End User Testing Form
@@ -176,8 +176,8 @@ https://docs.google.com/forms/d/1Yp3g3DOv1_Yr09C5h8hONQHFA9kFIYfrBqtThiJhENk/edi
 <img width="504" alt="Screenshot 2022-01-19 at 19 38 47" src="https://user-images.githubusercontent.com/91063109/150202234-1e07a55b-16b4-4022-bb96-674cb7300580.png"><br><img width="504" alt="Screenshot 2022-01-19 at 19 39 09" src="https://user-images.githubusercontent.com/91063109/150202254-4228a1bf-a3ce-4b7f-90c1-cee2c2d5a0a7.png"><br><img width="504" alt="Screenshot 2022-01-19 at 19 39 17" src="https://user-images.githubusercontent.com/91063109/150202286-9e3b00f7-c073-4bb8-9231-80c4b5466b9a.png">
 
 
-From these we gathered that most people found it easy to use and navigate with one using suggesting a How-to information box. This is something we could think about as next steps for our App. User's also confirmed that our colour scheme was appropriate which reflects the results we got in the A\B Testing form sent out before this one.
-This type of testing can help us improve our app and develop it. The users we sent this form out to are likely to be users of the app for coding projects. They would have also had an idea of what to expect from the app so navigation is easy. Next time we send out a user testing form, we could send it to another user group that may not have seen this time of app before.
+From these we gathered that most people found it easy to use and navigate with one user suggesting a 'How-to' information box. This is something we could think about as next steps for our App. User's also confirmed that our colour scheme was appropriate which reflects the results we got in the A\B Testing form sent out before this one.
+This type of testing can help us improve our app and develop it further. The users we sent this form out to are likely to be users of the app for coding projects. They would have also had an idea of what to expect from the app, so navigation is easy. Next time we send out a user testing form, we could send it to another user group that may not have seen this type of app before.
 
 ## GitHub Pages 
 
@@ -186,7 +186,7 @@ We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad 
 
 ## GitHub Issues / Actions
 
-Whilst working on our Assignment we used GitHub Issues. We created issues on GitHub around tasks we need to complete or areas we need approval or help on. This was useful in making issues visible to the entire team, allowing for easy communication and collaboration on tasks or issues that had appeared mid-project.
+Whilst working on our assignment we used GitHub Issues. We created issues on GitHub around tasks we need to complete or areas we need approval or help on. This was useful in making issues visible to the entire team, allowing for easy communication and collaboration on tasks or issues that had appeared mid-project.
 
 <div class="column">
     <img src="https://user-images.githubusercontent.com/54667722/150172132-53a2cfc6-da68-4452-a384-2230fe6b2d86.png" alt="Snow" style="width:100%; ">

@@ -72,9 +72,9 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 ### Our Testing Examples
 
-<img width="724" alt="Screenshot 2022-01-19 at 11 40 53" src="https://user-images.githubusercontent.com/90607750/150123161-a4046e95-e7c8-496d-b0ab-f50932f8267c.png">
+<img width="558" alt="Screenshot 2022-01-19 at 11 40 53" src="https://user-images.githubusercontent.com/90607750/150123161-a4046e95-e7c8-496d-b0ab-f50932f8267c.png">
 
-
+<img width="558" alt="Screenshot 2022-01-19 at 11 41 17" src="https://user-images.githubusercontent.com/90607750/150123263-b3fdae2c-5a66-4375-ba47-5297324347ac.png">
 
 ## Testing Strategy 
 

@@ -205,6 +205,7 @@ We have also setup Github Actions to run our integration tests and make sure tha
 Our logo for our colour converter app
 
 <br>
+<br>
 
 <img width="710" alt="Screenshot 2022-01-19 at 12 16 47" src="https://user-images.githubusercontent.com/90607750/150127764-5babfe1d-3319-4a56-aafc-4ff1f74241c7.png">
 

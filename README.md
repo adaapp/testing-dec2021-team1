@@ -61,16 +61,19 @@ We will be sending out a google form to our cohort to ensure the best design is 
 |Datatype number for rgb|                        |                             |
 |Datatype string for hex|                        |                             |
 |Throw an Error|                        |                             |
-|Throw an Error|                        |                             |
+|Throw an Error|                        |   
+                          |
 |Throw an Error|                        |                             |
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |  *See End User Testing below*|
 
 ### Our Testing Examples
 
+
 *link and ss*
 
 ## Testing Strategy 
+
 
 Our first testing consisted of smoke testing, to determine whether the initial build is stable or not, to further testing. We wrote a few of these to make sure; using toBe, toEqual and toBeTruthy. 
 
@@ -109,6 +112,7 @@ To decide upon the most appropriate design we will be using A/B testing. This is
 
 The most popular will be the nearest to the final design; feedback will be taken to improve our webpage to be the most functional, beneficial and appropriate design. 
 
+
 <br>
 
 https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/edit
@@ -121,6 +125,7 @@ https://docs.google.com/document/d/1Te9h920ELvVzeZvVaIUvSncCxGQGHmN-BdtRUsuejzw/
 ### Results
 <br>
 <img width="558" alt="Screenshot 2022-01-18 at 10 04 49" src="https://user-images.githubusercontent.com/91063109/149915771-6766f7a1-c248-44a8-820f-133c943ddb94.png">
+
 
 
 From the google form, it is clear that the majority votes were for Design 1. The main feedback was that the colours matched better which made it more appealing as well as the Dark colours made it eye catching. UI Designer Husna went ahead and did the Html and Css for this design based on the feedback from her mockups.
@@ -138,21 +143,24 @@ https://docs.google.com/forms/d/1Yp3g3DOv1_Yr09C5h8hONQHFA9kFIYfrBqtThiJhENk/edi
 
 
 
+
  
 ### Results
 
 From these we gathered...
 This type of testing can help us improve our app and develop it. The users we sent this form out to are likely to be users of the app for coding projects. They would have also had an idea of what to expect from the app so navigation is easy. Next time we send out a user testing form, we could send it to another user group that may not have seen this time of app before.
 ## UI Testing Table
-|Expected     | Actual Outcome    | Image
+|Expected Outcome| Actual Outcome    | Image
 |---------|--------------|--------------|
-|            |             |             |
-|            |             |             |
-|            |             |             |
-|            |             |             |
-|            |             |             |
+|When the input box is clicked the border changes colour| The border changes from black to light purple when clicked which is the expected outcome|<img width="354" alt="Screenshot 2022-01-19 at 11 27 32" src="https://user-images.githubusercontent.com/91063109/150121421-5c27673c-bdc6-4478-a36f-9cf7aabf8841.png"><br><img width="354" alt="Screenshot 2022-01-19 at 11 28 27" src="https://user-images.githubusercontent.com/91063109/150121464-c450ab10-48af-46ec-8403-00ff8f3995a0.png">|
+|When the RGB button is clicked a drop down appears allowing you to choose between RGB and HEX|The same as expected outcome|<img width="354" alt="Screenshot 2022-01-19 at 11 36 06" src="https://user-images.githubusercontent.com/91063109/150122405-2f2f0bf2-213c-47be-b2b7-adc47a73ef2e.png">|
+|When the HEX button is clicked a drop down appears allowing you to choose between RGB and HEX|The same as expected outcome|<img width="354" alt="Screenshot 2022-01-19 at 11 36 55" src="https://user-images.githubusercontent.com/91063109/150122746-cd2437c6-13de-4e4a-8c7b-4da6ddf3f7f0.png">|
+|When entering a RGB value a HEX value is produced with a hashtag(input -12,34,56)|The same as expected outcome|<img width="335" alt="Screenshot 2022-01-19 at 11 41 13" src="https://user-images.githubusercontent.com/91063109/150123156-99f19593-5170-44de-a980-67947938ee27.png">|
+|Before an input is given it displayes " No Colour Yet" and when an input is given a square appears and the HEX code (in this test we did a RGB to HEX conversion )|The same as expected|<img width="335" alt="Screenshot 2022-01-19 at 11 43 03" src="https://user-images.githubusercontent.com/91063109/150123405-d4416df3-7bd4-4543-92aa-4d315c290347.png"><br><img width="335" alt="Screenshot 2022-01-19 at 11 42 49" src="https://user-images.githubusercontent.com/91063109/150123360-139f12a8-9a5e-4296-90cc-f795668f9dd4.png">|
+|When the converter is change, e.g. RGB to HEX is changed to HEX to RGB, it should go back to saying "No Colour Yet" without a coloured square| The outcome was that the coloured square stays there until a new input is given|<img width="335" alt="Screenshot 2022-01-19 at 11 48 55" src="https://user-images.githubusercontent.com/91063109/150124440-da4e3c75-c48a-4d58-b13a-ac44ea771678.png"><br><img width="335" alt="Screenshot 2022-01-19 at 11 49 34" src="https://user-images.githubusercontent.com/91063109/150124472-baa74970-3e38-46ce-b686-6f6fad107aa2.png">|
 
 ## GitHub Pages 
+
 
 We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad JavaScript files straight from a repository on GitHub and runs the files through a build process and then to publish a website. It is easy for collaboration and clearly identifies where improvements have been made and by who.
 

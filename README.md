@@ -193,12 +193,13 @@ Whilst working on our Assignment we used GitHub Issues. We created issues on Git
     <img src="https://user-images.githubusercontent.com/54667722/150173952-6ea24bfc-3eae-4cbd-8290-73d150260804.png" alt="Snow" style="width:100%; ">
 </div>
 
-https://user-images.githubusercontent.com/54667722/150173952-6ea24bfc-3eae-4cbd-8290-73d150260804.png
 
 We have also setup Github Actions to run our integration tests and make sure that they are passing.
 
 
 ## Final Product
+
+<img width="710" alt="Logo" src="https://user-images.githubusercontent.com/54667722/150178253-ce97636f-68db-49a5-b2d5-c498467b2208.jpg">
 
 <img width="710" alt="Screenshot 2022-01-19 at 12 16 47" src="https://user-images.githubusercontent.com/90607750/150127764-5babfe1d-3319-4a56-aafc-4ff1f74241c7.png">
 

@@ -57,10 +57,11 @@ We will be sending out a google form to our cohort to ensure the best design is 
 |Smoke Test   | That our following tests will work     |True|
 |Smoke Test   | 'Testing our colour converter'|'Testing our colour converter'|
 |Hexconverter function  |  rgb to hex         | #8a3be2 to 138, 59, 226|
+|Hexconverter function  |  rgb output length is 12-18 | 18|
+|Hexconverter function  |  Case sensitivity does not matter         | #8a3be2 to 138, 59, 226|
 |rgbconverter function  |  hex to rgb         |                             |
 |Datatype number for rgb|                        |                             |
 |Datatype string for hex|                        |                             |
-|Throw an Error|                        |                             |
 |Throw an Error|                        |                             |
 |Throw an Error|                        |                             |
 |Google Form  | Which design is better | *See UI Design Results below*|

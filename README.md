@@ -100,11 +100,9 @@ Our first testing consisted of smoke testing, to determine whether the initial b
 
 We decided to work on testing our individual functions before incooperating the HTML/CSS, to make sure our functions worked.
 
-First we created a describe block that converted hex to rgb. Inside each box, we created multiple assertions to test the input, output and sometimes errors being thrown. In this instance, we tested to make sure 
+First we created a describe block that converted hex to rgb. Inside each box, we created multiple assertions to test the input, output and sometimes errors being thrown. In this instance, examples of what we tested included; making sure the case sensitivity did not matter and not inputting # would still give you the correct rgb value. 
 
-Similarly, another describe block we tested was the rgb function; to ensure rgb converted to hex. An example of an assertion within this was...
-
-To ensure certain symbols or negative numbers etc couldn't be inputted, we created a test to throw out an error when a user...
+Similarly, another describe block we tested was the rgb function; to ensure rgb converted to hex. Here we threw two errors; the first being when the inputted string was not in the correct format, the output was "Currently in invalid format". Another error was thrown when given a value instead of a string. The output was "input.string is not a function".
 
 To ensure good coding practice throughout this project we regularly tested and went through our code reviews as a team on pull requests before they were merged into the main branch.
 

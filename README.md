@@ -167,14 +167,16 @@ End-user testing can help us find out more information on the ease of use. The b
 https://docs.google.com/forms/d/1Yp3g3DOv1_Yr09C5h8hONQHFA9kFIYfrBqtThiJhENk/edit
 
 <br>
-<img width="558" alt="Screenshot 2022-01-18 at 10 37 39" src="https://user-images.githubusercontent.com/91063109/149921558-719a36fa-9e13-4db5-9771-2ac6e9147cf2.png"><br><img width="558" alt="Screenshot 2022-01-18 at 10 38 09" src="https://user-images.githubusercontent.com/91063109/149921569-b57da7cd-a8e1-4857-b437-2f9facb0ccac.png">
+<img width="504" alt="Screenshot 2022-01-19 at 19 37 44" src="https://user-images.githubusercontent.com/91063109/150202201-12e2441d-8770-4b42-b9e7-e5572e8c96eb.png"><br><img width="558" alt="Screenshot 2022-01-18 at 10 38 09" src="https://user-images.githubusercontent.com/91063109/149921569-b57da7cd-a8e1-4857-b437-2f9facb0ccac.png">
 
 
 
  
 ### Results
+<img width="504" alt="Screenshot 2022-01-19 at 19 38 47" src="https://user-images.githubusercontent.com/91063109/150202234-1e07a55b-16b4-4022-bb96-674cb7300580.png"><br><img width="504" alt="Screenshot 2022-01-19 at 19 39 09" src="https://user-images.githubusercontent.com/91063109/150202254-4228a1bf-a3ce-4b7f-90c1-cee2c2d5a0a7.png"><br><img width="504" alt="Screenshot 2022-01-19 at 19 39 17" src="https://user-images.githubusercontent.com/91063109/150202286-9e3b00f7-c073-4bb8-9231-80c4b5466b9a.png">
 
-From these we gathered...
+
+From these we gathered that most people found it easy to use and navigate with one using suggesting a How-to information box. This is something we could think about as next steps for our App. User's also confirmed that our colour scheme was appropriate which reflects the results we got in the A\B Testing form sent out before this one.
 This type of testing can help us improve our app and develop it. The users we sent this form out to are likely to be users of the app for coding projects. They would have also had an idea of what to expect from the app so navigation is easy. Next time we send out a user testing form, we could send it to another user group that may not have seen this time of app before.
 
 ## GitHub Pages 

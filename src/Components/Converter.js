@@ -70,6 +70,7 @@ export default function Converter() {
                             </select>
                         </div>
                     </div>
+                    <div style={{width: '50px', height: '50px', backgroundColor: result}}></div>
                     <div className="To">
                         <p>To</p>
                         <div className="select-box">
@@ -81,7 +82,6 @@ export default function Converter() {
                         </div>
                     </div>
                 </div>
-                <div style={{width: '50px', height: '50px', backgroundColor: result}}></div>
 
                 <img src="arrows.png" className="arrow-img" alt="" />
                 <h1>{result}</h1>

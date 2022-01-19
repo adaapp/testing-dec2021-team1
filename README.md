@@ -56,14 +56,14 @@ We will be sending out a google form to our cohort to ensure the best design is 
 |-------------|------------------------|-----------------------------|
 |Smoke Test   | That our following tests will work |True|
 |Smoke Test   | "Testing our colour converter"|"Testing our colour converter"|
-|Hexconverter function  |  rgb to hex         | #8a3be2 to rgb(138, 59, 226)|
+|Hexconverter function  |  hex to rgb         | #8a3be2 to rgb(138, 59, 226)|
 |Hexconverter function  |  rgb output length is 12-18 | .toHaveLength(18)|
 |Hexconverter function  |  Case sensitivity does not matter | #aAABbb to rgb(170, 171, 187) |
 |Hexconverter function  |  Not inputting a # will still give you correct rgb| AAABBB to rgb(170, 171, 187)|
 |Hexconverter function  |  Letter inputted is only A-F| #CCCCCC to rgb(204, 204, 204) |
 |Hexconverter function  |  Input is length 6| #123 is not rgb(1,2,3) |
 |Hexconverter function  |  There is an object only| (hexconverter).toBeInstanceOf(Object) |
-|rgbconverter function  |  hex to rgb         | rgb(12, 34, 56) to #0C2238  |
+|rgbconverter function  |  rgb to hex         | rgb(12, 34, 56) to #0C2238  |
 |rgbconverter function  |  There is an object only | (rgbconverter).not.toBeInstanceOf(Array)  |
 |Throw an Error| String is not in correct format in rgb value| "Currently in invalid format"|
 |Throw an Error| Value is given instead of a string  |"input.split is not a function"|

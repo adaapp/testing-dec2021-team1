@@ -184,7 +184,11 @@ We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad 
 
 ## GitHub Issues / Actions
 
-Whilst working on our Assignment we used GitHub Issues. We created issues on GitHub around tasks we need to complete or areas we need approval or help on. This was useful in....
+Whilst working on our Assignment we used GitHub Issues. We created issues on GitHub around tasks we need to complete or areas we need approval or help on. This was useful in making issues visible to the entire team, allowing for easy communication and collaboration on tasks or issues that had appeared mid-project.
+
+<div class="column">
+    <img src="https://user-images.githubusercontent.com/54667722/150172132-53a2cfc6-da68-4452-a384-2230fe6b2d86.png" alt="Snow" style="width:70%; ">
+</div>
 
 We have also setup Github Actions to run our integration tests and make sure that they are passing.
 

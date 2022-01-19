@@ -181,11 +181,12 @@ This type of testing can help us improve our app and develop it. The users we se
 
 We have chosen to use GitHub pages, as it is a service that takes HTML, CSS nad JavaScript files straight from a repository on GitHub and runs the files through a build process and then to publish a website. It is easy for collaboration and clearly identifies where improvements have been made and by who.
 
-We have also setup Github Actions to run our integration tests and make sure that they are passing.
 
-## GitHub Issues
+## GitHub Issues / Actions
 
 Whilst working on our Assignment we used GitHub Issues. We created issues on GitHub around tasks we need to complete or areas we need approval or help on. This was useful in....
+
+We have also setup Github Actions to run our integration tests and make sure that they are passing.
 
 
 ## Final Product

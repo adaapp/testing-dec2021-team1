@@ -95,11 +95,11 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 ## Testing Strategy 
 
-Our first testing consisted of smoke testing, to determine whether the initial build is stable or not, to further testing. We wrote a few of these to make sure; using toBe, toEqual and toBeTruthy. 
+Our first testing consisted of smoke testing, to determine whether the initial build is stable or not for further testing of our functions. We wrote two of these using toBeTruthy and toEqual.
 
 We decided to work on testing our individual functions before incooperating the HTML/CSS, to make sure our functions worked.
 
-First we created a describe block that converted hex to rgb. Inside each box, we created multiple assertions to test the input, output and sometimes errors being thrown. In this instance, we tested that...
+First we created a describe block that converted hex to rgb. Inside each box, we created multiple assertions to test the input, output and sometimes errors being thrown. In this instance, we tested to make sure 
 
 Similarly, another describe block we tested was the rgb function; to ensure rgb converted to hex. An example of an assertion within this was...
 
@@ -205,4 +205,4 @@ Hex: #8a2be2
 
 - The Hex code must have a hashtag at the beginning, otherwise the code will be invalid. Each hex code must contain 6 values. No more and no less.
 <br>
-As clear, the final webpage used the design 1, with a few tweaks after gaining our UI testing results. We decided that Design 1 was the most appropriate colour scheme. The contrast between the dark and light colours made it eye-catching. In future, we would like to develop the design so that a bigger part of the app changed colour based off the user input, for example the border colour could change and that the box that changed colour was in the middle of the app.
+As clear, the final webpage used the design 1, with a few tweaks after gaining our UI testing results. We decided that Design 1 was the most appropriate colour scheme. The contrast between the dark and light colours made it eye-catching. In future, we would like to develop the design so that a bigger part of the app changed colour based off the user input, for example the border colour could change. Next time we would probably add a few lines of instructions onto the app page to ensure people knew what length of hex value to enter and etc.

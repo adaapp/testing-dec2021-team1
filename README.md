@@ -109,6 +109,16 @@ To ensure good coding practice throughout this project we regularly tested and w
 
 Our workflow meant that we worked well as a team; one worked on the issue relevant to their area and if they needed help, it was easy to collobrate and let the rest of the team know. Once the coding, designs or testing had been completed, it was commited to a seperate branch on GitHub to be reviewed by the team and checked for conflicts, before being added to our final project.
 
+## UI Testing Table
+|Expected Outcome| Actual Outcome    | Image
+|---------|--------------|--------------|
+|When the input box is clicked the border changes colour| The border changes from black to light purple when clicked which is the expected outcome|<img width="354" alt="Screenshot 2022-01-19 at 11 27 32" src="https://user-images.githubusercontent.com/91063109/150121421-5c27673c-bdc6-4478-a36f-9cf7aabf8841.png"><br><img width="354" alt="Screenshot 2022-01-19 at 11 28 27" src="https://user-images.githubusercontent.com/91063109/150121464-c450ab10-48af-46ec-8403-00ff8f3995a0.png">|
+|When the RGB button is clicked a drop down appears allowing you to choose between RGB and HEX|The same as expected outcome|<img width="354" alt="Screenshot 2022-01-19 at 11 36 06" src="https://user-images.githubusercontent.com/91063109/150122405-2f2f0bf2-213c-47be-b2b7-adc47a73ef2e.png">|
+|When the HEX button is clicked a drop down appears allowing you to choose between RGB and HEX|The same as expected outcome|<img width="354" alt="Screenshot 2022-01-19 at 11 36 55" src="https://user-images.githubusercontent.com/91063109/150122746-cd2437c6-13de-4e4a-8c7b-4da6ddf3f7f0.png">|
+|When entering a RGB value a HEX value is produced with a hashtag(input -12,34,56)|The same as expected outcome|<img width="335" alt="Screenshot 2022-01-19 at 11 41 13" src="https://user-images.githubusercontent.com/91063109/150123156-99f19593-5170-44de-a980-67947938ee27.png">|
+|Before an input is given it displayes " No Colour Yet" and when an input is given a square appears and the HEX code (in this test we did a RGB to HEX conversion )|The same as expected|<img width="335" alt="Screenshot 2022-01-19 at 11 43 03" src="https://user-images.githubusercontent.com/91063109/150123405-d4416df3-7bd4-4543-92aa-4d315c290347.png"><br><img width="335" alt="Screenshot 2022-01-19 at 11 42 49" src="https://user-images.githubusercontent.com/91063109/150123360-139f12a8-9a5e-4296-90cc-f795668f9dd4.png">|
+|When the converter is change, e.g. RGB to HEX is changed to HEX to RGB, it should go back to saying "No Colour Yet" without a coloured square| The outcome was that the coloured square stays there until a new input is given|<img width="335" alt="Screenshot 2022-01-19 at 11 48 55" src="https://user-images.githubusercontent.com/91063109/150124440-da4e3c75-c48a-4d58-b13a-ac44ea771678.png"><br><img width="335" alt="Screenshot 2022-01-19 at 11 49 34" src="https://user-images.githubusercontent.com/91063109/150124472-baa74970-3e38-46ce-b686-6f6fad107aa2.png">|
+
 
 ## UI Design
 

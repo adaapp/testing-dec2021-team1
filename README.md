@@ -32,8 +32,15 @@ We will be coding using React. Initially, we had to take some time away to resea
 <br>
 
 ### Continuous integration/continuous delivery
-
-I....
+We will be following this method of deployment for code in our project
+1.Write the code
+2.Commit changes to a remote branch
+3.Request a review of those changes that have been made
+4.Make changes based on any comments that have been made
+5.Check if final code deploys on netlify
+6.Fix deployment issues if needed
+7.Push to main repository
+8.Deploy on main Netlify website
 
 ## Testing 
 

@@ -54,16 +54,19 @@ We will be sending out a google form to our cohort to ensure the best design is 
 
 |Test    | What is it testing?    | Example Outcome                     |
 |-------------|------------------------|-----------------------------|
-|Smoke Test   | That our following tests will work     |True|
-|Smoke Test   | 'Testing our colour converter'|'Testing our colour converter'|
-|Hexconverter function  |  rgb to hex         | #8a3be2 to rgb("138, 59, 226")|
+|Smoke Test   | That our following tests will work |True|
+|Smoke Test   | 'Testing our colour converter'|"Testing our colour converter"|
+|Hexconverter function  |  rgb to hex         | #8a3be2 to rgb(138, 59, 226)|
 |Hexconverter function  |  rgb output length is 12-18 | .toHaveLength(18)|
-|Hexconverter function  |  Case sensitivity does not matter         | #aAABbb to rgb("170, 171, 187") |
-|rgbconverter function  |  hex to rgb         |                             |
-|Datatype number for rgb|                        |                             |
-|Datatype string for hex|                        |                             |
-|Throw an Error|                        |                             |
-|Throw an Error|                        |                             |
+|Hexconverter function  |  Case sensitivity does not matter | #aAABbb to rgb(170, 171, 187) |
+|Hexconverter function  |  Not inputting a # will still give you correct rgb| AAABBB to rgb(170, 171, 187)|
+|Hexconverter function  |  Letter inputted is only A-F| #CCCCCC to rgb(204, 204, 204) |
+|Hexconverter function  |  Input is length 6| #123 is not rgb(1,2,3) |
+|Hexconverter function  |  There is an object only| (hexconverter).toBeInstanceOf(Object) |
+|rgbconverter function  |  hex to rgb         | rgb(12, 34, 56) to #0C2238  |
+|rgbconverter function  |  There is an object only | (rgbconverter).not.toBeInstanceOf(Array)  |
+|Throw an Error| String is not in correct format in rgb value| "Currently in invalid format"|
+|Throw an Error| Value is given instead of a string  |"input.split is not a function"|
 |Google Form  | Which design is better | *See UI Design Results below*|
 |Google Form  | End user testing       |  *See End User Testing below*|
 
@@ -144,14 +147,6 @@ https://docs.google.com/forms/d/1Yp3g3DOv1_Yr09C5h8hONQHFA9kFIYfrBqtThiJhENk/edi
 
 From these we gathered...
 This type of testing can help us improve our app and develop it. The users we sent this form out to are likely to be users of the app for coding projects. They would have also had an idea of what to expect from the app so navigation is easy. Next time we send out a user testing form, we could send it to another user group that may not have seen this time of app before.
-## UI Testing Table
-|Expected     | Actual Outcome    | Image
-|---------|--------------|--------------|
-|            |             |             |
-|            |             |             |
-|            |             |             |
-|            |             |             |
-|            |             |             |
 
 ## GitHub Pages 
 
